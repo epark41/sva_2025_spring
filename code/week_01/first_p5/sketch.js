@@ -1,7 +1,8 @@
 let btn;
 
 function setup() {
-    createCanvas(400, 400);
+    createCanvas(windowWidth,windowHeight);
+    rectMode(CENTER);
     btn = select('#my_button');
     btn.mouseClicked(onBtnClicked);
     
@@ -12,9 +13,17 @@ function setup() {
    }
 
   function draw() {
-    background(100);
+    background(50);
     circle(200,200,200);
-    rect(200,200,100);
-    rect(100,100,100);
+    circle(400,400,200);
+    circle(600,600,200);
+    circle(800,800,200);
 
+    if(mouseIsPressed){
+      line(pmouseX,pmouseY,mouseX,mouseY);
+    }
+  }
+
+  function windowResized(){
+     resizeCanvas(windowWidth,windowHeight)
   }

@@ -1,6 +1,30 @@
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #055505;
+  }
+
+  .my_text{
+    color: red;
+  }
+
+  #my_button{
+    background-color: chocolate;
+  }
+
+  .list{
+    display: flex;
+    gap: 100px;
+    background-color: darksalmon;
+    border-radius: 10px;
+  }
+
+  .my_canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
   }
   canvas {
     display: block;
