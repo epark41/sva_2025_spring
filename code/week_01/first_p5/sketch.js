@@ -3,8 +3,9 @@ function setup() {
   }
   
   function draw() {
-    background(400);
+    background(100);
     circle(200,200,200);
     rect(200,200,100);
     rect(100,100,100);
+
   }
