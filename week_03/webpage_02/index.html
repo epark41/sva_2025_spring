@@ -5,92 +5,129 @@
 <script src="sketch.js"></script>
     </head>
     <style>
-        body{
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            margin: 0px;
-            padding: 0px;
-        }
-    .container{
-        display:flex;
-        flex-direction: column;
-    }
-    .top-nav{
-        display: flex;
-        font-size: 50px;
-        background-color: dimgray;
-        justify-content: space-around;
-        width: 100%;
-        padding: 0.5em;
+ body {
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
     
-
-    }
-
-    ul{
-        margin: 0px;
-    }
-
-     li{
-        list-style-type: none;
-    }
-    .content-container{
-        display: flex;
-        width: 100%;
     
-    }
+}
 
-    .content-container .side-nav {
-        font-size: 30px;
-        background-color: darkgray;
-        width: 10em;
-        height: 100vh;
-    }
-    .content-container .side-nav li{
-        padding: 50px;
-        
-    }
-    .content-container .content{
-        padding: 10em;
-        align-content: center;
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: #f8f8f8;
+}
 
-    }
-    .side-nav-item{
-        cursor: pointer;
-    }
-    .iframe{
-        width: 800px;
-        height: 800px;
-    }
+.top-nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    font-size: 90px;
+    width: 100%;
+    padding: 0.5px 0; 
+    height: 10px;
+}
+
+
+
+.side-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #ffffff;
+    border-top: 1px solid #b3b3b3; 
+    border-bottom: 1px solid #b3b3b3;
+    padding: 0.5em ;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.side-nav ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    gap: 100px;
+}
+
+.side-nav li {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.side-nav li:hover {
+    background-color: transparent; 
+    color: red; 
+    border: 0.5px solid rgb(0, 0, 0); 
+    border-radius: 30px;
+    transition: 0.5s; 
+}
+
+
+.content-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 5%;
+}
+
+.content {
+    text-align: center;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.iframe {
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+    align-items: center; 
+    width: 800px;
+    height: 800px;
+}
+
     </style>
     <body>
-<div class="container">
-        <ul class="top-nav">
-            <li>Home</li>
-            <li>About</li>
-            <li>Contact</li>
-        </ul>
-    </div>
-    <div class="content-container">
-        <div class="side-nav">
-            <ul>
-                <li class="side-nav-item" data-id="project_01">Project_01</li>
-                <li class="side-nav-item" data-id="project_02">Project_02</li>
-                <li class="side-nav-item" data-id="Project_03">Project_03</li>
-
+        <div class="container">
+            <ul class="top-nav">
+                <li>Soo Park</li>
             </ul>
+            <div class="side-nav">
+                <ul>
+                    <li class="side-nav-item" data-id="project_01">Project_01</li>
+                    <li class="side-nav-item" data-id="project_02">Project_02</li>
+                    <li class="side-nav-item" data-id="project_03">Project_03</li>
+                </ul>
+            </div>
+            <div class="content-container">
+                <div class="content">
+                    <div class="project project_01">
+                        <main>
+                         <iframe class="iframe" src="https://editor.p5js.org/epark41/full/t0MVq4utO"></iframe>
+                        </main>
+                    </div>
+                    <div class="project project_02" hidden>
+                        <iframe class="iframe" src="https://editor.p5js.org/epark41/full/ZHbGHkEFCX"></iframe>
+                    </div>
+                    <div class="project project_03" hidden>
+                        <iframe class="iframe" src="https://editor.p5js.org/epark41/full/la0ypyVT1"></iframe>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="content">
-            <div class="project project_01">
-                <main></main>
-            </div>
-            <div class="project project_02" hidden>
-                <iframe class=iframe src="https://editor.p5js.org/epark41/full/ZHbGHkEFCX"></iframe>
-            </div>
-            <div class="project project_03" hidden>
-                <iframe class=iframe src="https://editor.p5js.org/epark41/full/la0ypyVT1"></iframe>
-            </div>
-        </div>
-    </div>
-</div>
+        
     </body>
 
 </html>
