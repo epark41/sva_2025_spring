@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hover Letter Effect</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+        .word {
+            font-size: 50px;
+            display: flex;
+            gap: 5px;
+        }
+        .letter {
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="word" id="word"></div>
+    
+    <script>
+        const wordElement = document.getElementById("word");
+        const word = "Hover";
+        
+        word.split("").forEach(letter => {
+            let span = document.createElement("span");
+            span.textContent = letter;
+            span.classList.add("letter");
+            
+            span.addEventListener("mouseover", () => {
+                span.style.transform = "translateY(-10px)";
+            });
+            
+            span.addEventListener("mouseleave", () => {
+                span.style.transform = "translateY(0)";
+            });
+            
+            wordElement.appendChild(span);
+        });
+    </script>
+</body>
+</html>

@@ -1,133 +1,155 @@
-<html>
-    <head>
-<title>Soo's Website</title>
-<script src="https://cdn.jsdelivr.net/npm/p5@1.11.3/lib/p5.min.js"></script>
-<script src="sketch.js"></script>
-    </head>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soo's Website</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.3/lib/p5.min.js"></script>
+    <script src="sketch.js"></script>
     <style>
- body {
-    font-family: serif;
-    margin: 0;
-    padding: 0;
-}
+        body {
+            font-family: serif;
+            margin: 0;
+            padding: 0;
+        }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    
-    
-}
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
 
-.nav-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    background-color: #f8f8f8;
-}
+        .nav-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            background-color: #f8f8f8;
+        }
 
-.top-nav {
-    list-style-type: none;
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    text-align: center; 
-    font-size: 90px;
-    width: 100%;
-    padding: 0.5px 0; 
-    height: 10px;
-}
+        .top-nav {
+            list-style-type: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            font-size: 90px;
+            width: 100%;
+            padding: 0.5px 0;
+            height: 10px;
+            white-space: pre;
+        }
 
+        .side-nav {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            background-color: #ffffff;
+            border-top: 1px solid #b3b3b3;
+            border-bottom: 1px solid #b3b3b3;
+            padding: 0.5em;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
 
+        .side-nav ul {
+            display: flex;
+            flex-direction: row;
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            gap: 100px;
+        }
 
-.side-nav {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    background-color: #ffffff;
-    border-top: 1px solid #b3b3b3; 
-    border-bottom: 1px solid #b3b3b3;
-    padding: 0.5em ;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-}
+        .side-nav li {
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+        }
 
-.side-nav ul {
-    display: flex;
-    flex-direction: row;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    gap: 100px;
-}
+        .side-nav li:hover {
+            background-color:black;
+            color: rgb(255, 255, 255);
+            border: 0.5px solid rgb(0, 0, 0);
+            border-radius: 30px;
+            transition: 0.5s;
+        }
 
-.side-nav li {
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: bold;
-}
+        .content-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            padding-top: 3%;
+        }
 
-.side-nav li:hover {
-    background-color: transparent; 
-    color: red; 
-    border: 0.5px solid rgb(0, 0, 0); 
-    border-radius: 30px;
-    transition: 0.5s; 
-}
+        .content {
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
 
+        .iframe {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            width: 800px;
+            height: 842px;
+        }
 
-.content-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    padding-top: 5%;
-}
-
-.content {
-    text-align: center;
-    justify-content: center; 
-    align-items: center; 
-}
-
-.iframe {
-    display: flex;
-    text-align: center;
-    justify-content: center; 
-    align-items: center; 
-    width: 800px;
-    height: 800px;
-}
-
+        .letter {
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+        
     </style>
-    <body>
-        <div class="container">
-            <ul class="top-nav">
-                <li>Soo Park</li>
+</head>
+
+<body>
+    <div class="container">
+        <ul class="top-nav" id="name">
+        </ul>
+        <div class="side-nav">
+            <ul>
+                <li class="side-nav-item" data-id="project_01">Project_01</li>
+                <li class="side-nav-item" data-id="project_02">Project_02</li>
+                <li class="side-nav-item" data-id="project_03">Project_03</li>
             </ul>
-            <div class="side-nav">
-                <ul>
-                    <li class="side-nav-item" data-id="project_01">Project_01</li>
-                    <li class="side-nav-item" data-id="project_02">Project_02</li>
-                    <li class="side-nav-item" data-id="project_03">Project_03</li>
-                </ul>
-            </div>
-            <div class="content-container">
-                <div class="content">
-                    <div class="project project_01">
-                        <main>
-                         <iframe class="iframe" src="https://editor.p5js.org/epark41/full/t0MVq4utO"></iframe>
-                        </main>
-                    </div>
-                    <div class="project project_02" hidden>
-                        <iframe class="iframe" src="https://editor.p5js.org/epark41/full/ZHbGHkEFCX"></iframe>
-                    </div>
-                    <div class="project project_03" hidden>
-                        <iframe class="iframe" src="https://editor.p5js.org/epark41/full/la0ypyVT1"></iframe>
-                    </div>
+        </div>
+        <div class="content-container">
+            <div class="content">
+                <div class="project project_01">
+                    <main>
+                        <iframe class="iframe" src="https://editor.p5js.org/epark41/full/vrjLsfzh3"></iframe>>
+                    </main>
+                </div>
+                <div class="project project_02" hidden>
+                    <iframe class="iframe" src="https://editor.p5js.org/epark41/full/t0MVq4utO"></iframe>
+                </div>
+                <div class="project project_03" hidden>
+                    <iframe class="iframe" src="https://editor.p5js.org/epark41/full/XvcWPP3z_"></iframe>
                 </div>
             </div>
         </div>
-        
-    </body>
+    </div>
 
+    <script>
+        const nameElement = document.getElementById("name");
+        const nameText = "Soo Park";
+        
+        nameText.split("").forEach(letter => {
+            let span = document.createElement("span");
+            span.textContent = letter;
+            span.classList.add("letter");
+            
+            span.addEventListener("mouseover", () => {
+                span.style.transform = "translateY(-10px)";
+            });
+            
+            span.addEventListener("mouseleave", () => {
+                span.style.transform = "translateY(0)";
+            });
+            
+            nameElement.appendChild(span);
+        });
+    </script>
+</body>
 </html>

@@ -20,7 +20,7 @@ selectedProject.show();
 }
 
 function onMouseOver(){
-this.style("color","red");
+this.style("color","white");
 }
 
 function onMouseOut(){
