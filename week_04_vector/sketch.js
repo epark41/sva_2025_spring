@@ -1,27 +1,34 @@
-let pos;
-let vel;
+let vehicle;
+let gravity;
 
 function setup(){
 createCanvas(800,800);
-    pos = createVector(width/2,height/2);
-    vel = createVector(0.1,0.1);
-
+    vehicle = new Vehicle(width/2,0);
+    vehicle.applyForce(createVector(0.1,0.1));
+    gravity  = createVector(0,0.1);
 }
 
 function draw(){
     background(180);
-
-    pos.add(vel);
     
-    const lineVec = createVector(100,100);
-    const aVec = createVector(0,100);
-    //lineVec.add(aVec);
-    //lineVec.sub(aVec);
-    //lineVec.mult(2);
-    //lineVec.div(2);
-    lineVec.normalize();
-    lineVec.mult(100);
+    if (mouseIsPressed){
+        let wind;
+    
+        if(vehicle.pos.x < mouseX){
+        wind = createVector(-1,0);
+        }
+        else{
+        wind = createVector(1,0);
+        }
+        vehicle.applyForce(wind);
+    }
 
-    translate(width/2,height/2);
-    line (0,0,lineVec.x, lineVec.y);
+
+    vehicle.applyForce(gravity);
+    vehicle.bounce();
+    vehicle.update();
+    vehicle.display(); 
+
  }
+
+ 
