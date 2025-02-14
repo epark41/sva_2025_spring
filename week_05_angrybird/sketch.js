@@ -13,17 +13,14 @@ function setup(){
 
 function draw(){
     background(150);
+    if(isPressed){
+        line(mouseX,mouseY,particle.pos.x,particle.pos.y);
+   }
     for (let i = 0; i < particles.length; i++){
         const particle = particles[i];
-    
-    if(!isPressed){
-    particle.applyForce(gravity);
-    particle.update();
-    }
-    else{
-        line(mouseX,mouseY,particle.pos.x,particle.pos.y);
-    }
-    particle.display();
+        particle.applyForce(gravity);
+        particle.update();
+        particle.display();
 }
 }
 
@@ -40,4 +37,5 @@ function mouseReleased(){
     const force = p5.Vector.sub(particle.pos,mouse);
     force.div(10);
     particle.applyForce(force);
+    particle.setActive(true);
 }

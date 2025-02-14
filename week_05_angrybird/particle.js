@@ -5,6 +5,11 @@ class Particle{
         this.acc = createVector();
         this.r = r;
         this.friction = 0.995;
+        this.isActive = false;
+}
+
+setActive(active){
+    this.isActive = active;
 }
 
 applyForce(force){
@@ -29,6 +34,7 @@ bounce(){
 }
 
 update(){
+    if(!this.isActive) return;
     this.vel.add(this.acc);
     this.pos.add(this.vel);
     this.acc.mult(0);
