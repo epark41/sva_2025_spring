@@ -12,7 +12,7 @@ class Particle {
     this.activeColor = color(random(0,360),random(0,100),random(0,100));
     this.deactiveColor = color(255);
     this.currentColor = color(255);
-    this.alpha = 255;  
+    this.alpha = 0.5;  
   }
 
   applyForce(force) {
@@ -29,22 +29,16 @@ class Particle {
     this.age--;
     if (this.age <= 0) {
       this.alpha = lerp(this.alpha, 0, 0.1); 
-      if (this.alpha <= 10) {  
-      }
+      
     }
   }
 
   display() {
-    let colorLerpFactor = 0.05;
-    if (this.hasForce) {
-      this.currentColor = lerpColor(this.currentColor, this.activeColor, colorLerpFactor);      
-    } else {
-      this.currentColor = lerpColor(this.currentColor, this.deactiveColor, colorLerpFactor);   
-    }
     noStroke();
-    fill(this.currentColor.levels[0], this.currentColor.levels[1], this.currentColor.levels[2], this.alpha);
+    fill(200, 100, 255, this.alpha * random(0.5,0.7));
     ellipse(this.loc.x, this.loc.y, this.size);
     this.hasForce = false;
   }
+  
 }
 

@@ -25,6 +25,7 @@ function gotFaces(results) {
 
 function draw() {
   background(180);
+  push();  
   image(video, 0, 0, width, height);
 
   for (let i = 0; i < faces.length; i++) {

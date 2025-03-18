@@ -1,13 +1,13 @@
 class ParticleSystem {
   constructor() {
     this.particles = [];
-    this.gravity = createVector(0, 0.08);
-    this.maxParticles = 500; 
+    this.gravity = createVector(0, -0.08);
+    this.maxParticles = 500;
   }
 
   draw() {
     while (this.particles.length > this.maxParticles) {
-      this.particles.shift();  
+      this.particles.shift();
     }
 
     for (let i = this.particles.length - 1; i >= 0; i--) {
@@ -26,7 +26,9 @@ class ParticleSystem {
         }
       }
 
+      p.applyForce(this.gravity);
       p.update();
+
       p.display();
 
       if (p.isDead) {
