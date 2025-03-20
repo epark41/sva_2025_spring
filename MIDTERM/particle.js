@@ -28,9 +28,7 @@ class Particle {
 
     this.age--;
     if (this.age <= 0) {
-      this.alpha = lerp(this.alpha, 0, 0.1); 
-      if (this.alpha <= 10) {  
-      }
+      this.alpha = lerp(this.alpha, 0, 0.1);
     }
   }
 
