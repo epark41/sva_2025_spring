@@ -34,7 +34,7 @@ class Particle {
 
   display() {
     noStroke();
-    fill(200, 100, 255, this.alpha * random(0.5,0.7));
+    fill(200, 100, 255, this.alpha * 0.5);
     ellipse(this.loc.x, this.loc.y, this.size);
     this.hasForce = false;
   }
