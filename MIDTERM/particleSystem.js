@@ -1,7 +1,7 @@
 class ParticleSystem {
   constructor() {
     this.particles = [];
-    this.gravity = createVector(0, -0.08);
+    this.gravity = createVector(0, -0.08); // 위로 떠오르는 효과
     this.maxParticles = 500;
   }
 
@@ -13,22 +13,21 @@ class ParticleSystem {
     for (let i = this.particles.length - 1; i >= 0; i--) {
       let p = this.particles[i];
 
-      for (let j = i; j >= 0; j--) {
+      for (let j = i - 1; j >= 0; j--) {
         let op = this.particles[j];
         let distance = p.loc.dist(op.loc);
         if (distance > 0 && distance < (p.size + op.size) * 0.5 + 1) {
-          var pushForce = p5.Vector.sub(p.loc, op.loc);
+          let pushForce = p5.Vector.sub(p.loc, op.loc);
           pushForce.normalize();
           pushForce.div(distance * 2);
           pushForce.limit(1);
           p.applyForce(pushForce);
-          op.applyForce(pushForce.mult(-1));
+          op.applyForce(pushForce.copy().mult(-1));
         }
       }
 
       p.applyForce(this.gravity);
       p.update();
-
       p.display();
 
       if (p.isDead) {
@@ -41,10 +40,8 @@ class ParticleSystem {
     for (let i = 0; i < numOfParticles; i++) {
       let randomSize = random(10, 40);
       let particle = new Particle(pos, randomSize);
-      let randomX = cos(random(0, PI * 2));
-      let randomY = sin(random(0, PI * 2));
-      let randomForce = createVector(randomX, randomY);
-      particle.applyForce(randomForce);
+      let randomDir = p5.Vector.random2D().mult(random(0.5, 2));
+      particle.applyForce(randomDir);
       this.particles.push(particle);
     }
   }
