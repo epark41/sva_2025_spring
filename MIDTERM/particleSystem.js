@@ -1,13 +1,15 @@
 class ParticleSystem {
   constructor() {
     this.particles = [];
-    this.gravity = createVector(0, -0.08); // 위로 떠오르는 효과
+    this.gravity = createVector(0, -0.08);
     this.maxParticles = 500;
   }
 
   draw() {
+    // 오래된 입자 제거 + 너무 많으면 자동 터지게
     while (this.particles.length > this.maxParticles) {
-      this.particles.shift();
+      let p = this.particles.shift();
+      if (p) p.age = 0; // 터지듯 사라지게
     }
 
     for (let i = this.particles.length - 1; i >= 0; i--) {
