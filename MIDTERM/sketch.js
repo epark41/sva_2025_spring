@@ -3,9 +3,11 @@ let faceMesh;
 let options = { maxFaces: 1, refineLandmarks: false, flipped: false };
 let video;
 let faces = [];
+let bubbleSounds = [];
 
 function preload() {
   faceMesh = ml5.faceMesh(options);
+  
 }
 
 function setup() {
