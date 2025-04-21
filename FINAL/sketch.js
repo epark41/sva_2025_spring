@@ -14,7 +14,6 @@ let weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
 let columns = {};
 let weekdayCounts = {};
 let weekdaySums = {};
-let weekdayAverages = {};
 
 function preload() {
   loadJSON("data/walking_day.json", (data) => {
@@ -24,7 +23,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 800);
+  rectMode(CENTER);
+  createCanvas(1000, 800).parent(document.body);
   engine = Engine.create();
   world = engine.world;
   frameRate(30);
@@ -42,13 +42,15 @@ function setup() {
     World.add(world, [wallLeft, wallRight]);
   }
 
-  let floor = Bodies.rectangle(width / 2, height + 40, width, 150, { isStatic: true });
+  let floor = Bodies.rectangle(width / 2, height + 40, width, 200, { isStatic: true });
   World.add(world, floor);
 
   startButton = createButton("START");
-  startButton.position(width / 2 - 50, height / 2 - 25);
+  startButton.position((windowWidth - 100) / 2, (windowHeight - 50) / 2);
   startButton.size(100, 50);
   startButton.style("font-size", "16px");
+  startButton.style("background-color", "#ffffff");
+  startButton.style("border", "none");
   startButton.mousePressed(() => {
     started = true;
     startButton.hide();
@@ -95,6 +97,7 @@ function draw() {
     fill(0);
     noStroke();
     textSize(16);
+    textAlign(CENTER, TOP);
     text(yearMonth, width / 2, 20);
   }
 }
@@ -105,19 +108,19 @@ function drawDayLabels() {
   for (let i = 0; i < weekdays.length; i++) {
     const x = columns[weekdays[i]];
     textAlign(CENTER, TOP);
-    text(weekdays[i], x, height - 20);
+    text(weekdays[i], x, height - 50);
   }
 }
 
 function drawAverageLabels() {
-  textSize(12);
+  textSize(14);
   textAlign(CENTER, BOTTOM);
   for (let i = 0; i < weekdays.length; i++) {
     let day = weekdays[i];
     if (weekdayCounts[day] > 0) {
       let avg = floor(weekdaySums[day] / weekdayCounts[day]);
-      fill(80);
-      text(`${avg.toLocaleString()} steps`, columns[day], height - 50);
+      fill(0);
+      text(`${avg.toLocaleString()} steps`, columns[day], height - 10);
     }
   }
 }
