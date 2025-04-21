@@ -2,5436 +2,5436 @@
   {
     "date": "2022-01-01",
     "steps": 1842,
-    "index": 0
+    "day": "Saturday"
   },
   {
     "date": "2022-01-02",
     "steps": 5207,
-    "index": 1
+    "day": "Sunday"
   },
   {
     "date": "2022-01-03",
     "steps": 1698,
-    "index": 2
+    "day": "Monday"
   },
   {
     "date": "2022-01-04",
     "steps": 6483,
-    "index": 3
+    "day": "Tuesday"
   },
   {
     "date": "2022-01-05",
     "steps": 1481,
-    "index": 4
+    "day": "Wednesday"
   },
   {
     "date": "2022-01-06",
     "steps": 2446,
-    "index": 5
+    "day": "Thursday"
   },
   {
     "date": "2022-01-07",
     "steps": 3259,
-    "index": 6
+    "day": "Friday"
   },
   {
     "date": "2022-01-08",
     "steps": 1033,
-    "index": 7
+    "day": "Saturday"
   },
   {
     "date": "2022-01-09",
     "steps": 1060,
-    "index": 8
+    "day": "Sunday"
   },
   {
     "date": "2022-01-10",
     "steps": 3295,
-    "index": 9
+    "day": "Monday"
   },
   {
     "date": "2022-01-11",
     "steps": 3679,
-    "index": 10
+    "day": "Tuesday"
   },
   {
     "date": "2022-01-12",
     "steps": 928,
-    "index": 11
+    "day": "Wednesday"
   },
   {
     "date": "2022-01-13",
     "steps": 1484,
-    "index": 12
+    "day": "Thursday"
   },
   {
     "date": "2022-01-14",
     "steps": 3434,
-    "index": 13
+    "day": "Friday"
   },
   {
     "date": "2022-01-15",
     "steps": 995,
-    "index": 14
+    "day": "Saturday"
   },
   {
     "date": "2022-01-16",
     "steps": 1792,
-    "index": 15
+    "day": "Sunday"
   },
   {
     "date": "2022-01-17",
     "steps": 1434,
-    "index": 16
+    "day": "Monday"
   },
   {
     "date": "2022-01-18",
     "steps": 3061,
-    "index": 17
+    "day": "Tuesday"
   },
   {
     "date": "2022-01-19",
     "steps": 2996,
-    "index": 18
+    "day": "Wednesday"
   },
   {
     "date": "2022-01-20",
     "steps": 3802,
-    "index": 19
+    "day": "Thursday"
   },
   {
     "date": "2022-01-21",
     "steps": 3600,
-    "index": 20
+    "day": "Friday"
   },
   {
     "date": "2022-01-22",
     "steps": 2116,
-    "index": 21
+    "day": "Saturday"
   },
   {
     "date": "2022-01-23",
     "steps": 1013,
-    "index": 22
+    "day": "Sunday"
   },
   {
     "date": "2022-01-24",
     "steps": 2084,
-    "index": 23
+    "day": "Monday"
   },
   {
     "date": "2022-01-25",
     "steps": 1321,
-    "index": 24
+    "day": "Tuesday"
   },
   {
     "date": "2022-01-26",
     "steps": 3003,
-    "index": 25
+    "day": "Wednesday"
   },
   {
     "date": "2022-01-28",
     "steps": 2990,
-    "index": 26
+    "day": "Friday"
   },
   {
     "date": "2022-01-29",
     "steps": 1550,
-    "index": 27
+    "day": "Saturday"
   },
   {
     "date": "2022-01-30",
     "steps": 1106,
-    "index": 28
+    "day": "Sunday"
   },
   {
     "date": "2022-01-31",
     "steps": 2262,
-    "index": 29
+    "day": "Monday"
   },
   {
     "date": "2022-02-01",
     "steps": 9299,
-    "index": 30
+    "day": "Tuesday"
   },
   {
     "date": "2022-02-02",
     "steps": 82,
-    "index": 31
+    "day": "Wednesday"
   },
   {
     "date": "2022-02-03",
     "steps": 4745,
-    "index": 32
+    "day": "Thursday"
   },
   {
     "date": "2022-02-04",
     "steps": 3252,
-    "index": 33
+    "day": "Friday"
   },
   {
     "date": "2022-02-05",
     "steps": 1010,
-    "index": 34
+    "day": "Saturday"
   },
   {
     "date": "2022-02-06",
     "steps": 135,
-    "index": 35
+    "day": "Sunday"
   },
   {
     "date": "2022-02-07",
     "steps": 1734,
-    "index": 36
+    "day": "Monday"
   },
   {
     "date": "2022-02-08",
     "steps": 62,
-    "index": 37
+    "day": "Tuesday"
   },
   {
     "date": "2022-02-09",
     "steps": 10272,
-    "index": 38
+    "day": "Wednesday"
   },
   {
     "date": "2022-02-10",
     "steps": 1140,
-    "index": 39
+    "day": "Thursday"
   },
   {
     "date": "2022-02-11",
     "steps": 1384,
-    "index": 40
+    "day": "Friday"
   },
   {
     "date": "2022-02-12",
     "steps": 259,
-    "index": 41
+    "day": "Saturday"
   },
   {
     "date": "2022-02-13",
     "steps": 1507,
-    "index": 42
+    "day": "Sunday"
   },
   {
     "date": "2022-02-14",
     "steps": 42,
-    "index": 43
+    "day": "Monday"
   },
   {
     "date": "2022-02-15",
     "steps": 178,
-    "index": 44
+    "day": "Tuesday"
   },
   {
     "date": "2022-02-16",
     "steps": 352,
-    "index": 45
+    "day": "Wednesday"
   },
   {
     "date": "2022-02-17",
     "steps": 467,
-    "index": 46
+    "day": "Thursday"
   },
   {
     "date": "2022-02-18",
     "steps": 646,
-    "index": 47
+    "day": "Friday"
   },
   {
     "date": "2022-02-19",
     "steps": 460,
-    "index": 48
+    "day": "Saturday"
   },
   {
     "date": "2022-02-20",
     "steps": 581,
-    "index": 49
+    "day": "Sunday"
   },
   {
     "date": "2022-02-21",
     "steps": 707,
-    "index": 50
+    "day": "Monday"
   },
   {
     "date": "2022-02-22",
     "steps": 637,
-    "index": 51
+    "day": "Tuesday"
   },
   {
     "date": "2022-02-23",
     "steps": 2149,
-    "index": 52
+    "day": "Wednesday"
   },
   {
     "date": "2022-02-24",
     "steps": 2938,
-    "index": 53
+    "day": "Thursday"
   },
   {
     "date": "2022-02-25",
     "steps": 2935,
-    "index": 54
+    "day": "Friday"
   },
   {
     "date": "2022-02-26",
     "steps": 1038,
-    "index": 55
+    "day": "Saturday"
   },
   {
     "date": "2022-02-27",
     "steps": 1588,
-    "index": 56
+    "day": "Sunday"
   },
   {
     "date": "2022-02-28",
     "steps": 1854,
-    "index": 57
+    "day": "Monday"
   },
   {
     "date": "2022-03-01",
     "steps": 100,
-    "index": 58
+    "day": "Tuesday"
   },
   {
     "date": "2022-03-02",
     "steps": 1089,
-    "index": 59
+    "day": "Wednesday"
   },
   {
     "date": "2022-03-03",
     "steps": 1385,
-    "index": 60
+    "day": "Thursday"
   },
   {
     "date": "2022-03-04",
     "steps": 1169,
-    "index": 61
+    "day": "Friday"
   },
   {
     "date": "2022-03-05",
     "steps": 2195,
-    "index": 62
+    "day": "Saturday"
   },
   {
     "date": "2022-03-06",
     "steps": 1867,
-    "index": 63
+    "day": "Sunday"
   },
   {
     "date": "2022-03-07",
     "steps": 2411,
-    "index": 64
+    "day": "Monday"
   },
   {
     "date": "2022-03-08",
     "steps": 1391,
-    "index": 65
+    "day": "Tuesday"
   },
   {
     "date": "2022-03-09",
     "steps": 7078,
-    "index": 66
+    "day": "Wednesday"
   },
   {
     "date": "2022-03-10",
     "steps": 3161,
-    "index": 67
+    "day": "Thursday"
   },
   {
     "date": "2022-03-11",
     "steps": 5299,
-    "index": 68
+    "day": "Friday"
   },
   {
     "date": "2022-03-12",
     "steps": 3792,
-    "index": 69
+    "day": "Saturday"
   },
   {
     "date": "2022-03-13",
     "steps": 41834,
-    "index": 70
+    "day": "Sunday"
   },
   {
     "date": "2022-03-14",
     "steps": 3777,
-    "index": 71
+    "day": "Monday"
   },
   {
     "date": "2022-03-15",
     "steps": 4097,
-    "index": 72
+    "day": "Tuesday"
   },
   {
     "date": "2022-03-16",
     "steps": 2874,
-    "index": 73
+    "day": "Wednesday"
   },
   {
     "date": "2022-03-17",
     "steps": 2982,
-    "index": 74
+    "day": "Thursday"
   },
   {
     "date": "2022-03-18",
     "steps": 3691,
-    "index": 75
+    "day": "Friday"
   },
   {
     "date": "2022-03-19",
     "steps": 3093,
-    "index": 76
+    "day": "Saturday"
   },
   {
     "date": "2022-03-20",
     "steps": 3822,
-    "index": 77
+    "day": "Sunday"
   },
   {
     "date": "2022-03-21",
     "steps": 4726,
-    "index": 78
+    "day": "Monday"
   },
   {
     "date": "2022-03-22",
     "steps": 2971,
-    "index": 79
+    "day": "Tuesday"
   },
   {
     "date": "2022-03-23",
     "steps": 5048,
-    "index": 80
+    "day": "Wednesday"
   },
   {
     "date": "2022-03-24",
     "steps": 5502,
-    "index": 81
+    "day": "Thursday"
   },
   {
     "date": "2022-03-25",
     "steps": 4482,
-    "index": 82
+    "day": "Friday"
   },
   {
     "date": "2022-03-26",
     "steps": 17024,
-    "index": 83
+    "day": "Saturday"
   },
   {
     "date": "2022-03-27",
     "steps": 1853,
-    "index": 84
+    "day": "Sunday"
   },
   {
     "date": "2022-03-28",
     "steps": 2350,
-    "index": 85
+    "day": "Monday"
   },
   {
     "date": "2022-03-29",
     "steps": 3213,
-    "index": 86
+    "day": "Tuesday"
   },
   {
     "date": "2022-03-30",
     "steps": 5264,
-    "index": 87
+    "day": "Wednesday"
   },
   {
     "date": "2022-03-31",
     "steps": 3409,
-    "index": 88
+    "day": "Thursday"
   },
   {
     "date": "2022-04-01",
     "steps": 8525,
-    "index": 89
+    "day": "Friday"
   },
   {
     "date": "2022-04-02",
     "steps": 6860,
-    "index": 90
+    "day": "Saturday"
   },
   {
     "date": "2022-04-03",
     "steps": 3178,
-    "index": 91
+    "day": "Sunday"
   },
   {
     "date": "2022-04-04",
     "steps": 2778,
-    "index": 92
+    "day": "Monday"
   },
   {
     "date": "2022-04-05",
     "steps": 5579,
-    "index": 93
+    "day": "Tuesday"
   },
   {
     "date": "2022-04-06",
     "steps": 2774,
-    "index": 94
+    "day": "Wednesday"
   },
   {
     "date": "2022-04-07",
     "steps": 2864,
-    "index": 95
+    "day": "Thursday"
   },
   {
     "date": "2022-04-08",
     "steps": 10706,
-    "index": 96
+    "day": "Friday"
   },
   {
     "date": "2022-04-09",
     "steps": 17349,
-    "index": 97
+    "day": "Saturday"
   },
   {
     "date": "2022-04-10",
     "steps": 1083,
-    "index": 98
+    "day": "Sunday"
   },
   {
     "date": "2022-04-11",
     "steps": 6356,
-    "index": 99
+    "day": "Monday"
   },
   {
     "date": "2022-04-12",
     "steps": 4766,
-    "index": 100
+    "day": "Tuesday"
   },
   {
     "date": "2022-04-13",
     "steps": 3081,
-    "index": 101
+    "day": "Wednesday"
   },
   {
     "date": "2022-04-14",
     "steps": 2574,
-    "index": 102
+    "day": "Thursday"
   },
   {
     "date": "2022-04-15",
     "steps": 11624,
-    "index": 103
+    "day": "Friday"
   },
   {
     "date": "2022-04-16",
     "steps": 11642,
-    "index": 104
+    "day": "Saturday"
   },
   {
     "date": "2022-04-17",
     "steps": 8644,
-    "index": 105
+    "day": "Sunday"
   },
   {
     "date": "2022-04-18",
     "steps": 2331,
-    "index": 106
+    "day": "Monday"
   },
   {
     "date": "2022-04-19",
     "steps": 4274,
-    "index": 107
+    "day": "Tuesday"
   },
   {
     "date": "2022-04-20",
     "steps": 3724,
-    "index": 108
+    "day": "Wednesday"
   },
   {
     "date": "2022-04-21",
     "steps": 2472,
-    "index": 109
+    "day": "Thursday"
   },
   {
     "date": "2022-04-22",
     "steps": 7857,
-    "index": 110
+    "day": "Friday"
   },
   {
     "date": "2022-04-23",
     "steps": 21081,
-    "index": 111
+    "day": "Saturday"
   },
   {
     "date": "2022-04-24",
     "steps": 633,
-    "index": 112
+    "day": "Sunday"
   },
   {
     "date": "2022-04-25",
     "steps": 4540,
-    "index": 113
+    "day": "Monday"
   },
   {
     "date": "2022-04-26",
     "steps": 5877,
-    "index": 114
+    "day": "Tuesday"
   },
   {
     "date": "2022-04-27",
     "steps": 3793,
-    "index": 115
+    "day": "Wednesday"
   },
   {
     "date": "2022-04-28",
     "steps": 11119,
-    "index": 116
+    "day": "Thursday"
   },
   {
     "date": "2022-04-29",
     "steps": 10335,
-    "index": 117
+    "day": "Friday"
   },
   {
     "date": "2022-04-30",
     "steps": 3767,
-    "index": 118
+    "day": "Saturday"
   },
   {
     "date": "2022-05-01",
     "steps": 4447,
-    "index": 119
+    "day": "Sunday"
   },
   {
     "date": "2022-05-02",
     "steps": 5392,
-    "index": 120
+    "day": "Monday"
   },
   {
     "date": "2022-05-03",
     "steps": 2601,
-    "index": 121
+    "day": "Tuesday"
   },
   {
     "date": "2022-05-04",
     "steps": 2266,
-    "index": 122
+    "day": "Wednesday"
   },
   {
     "date": "2022-05-05",
     "steps": 10008,
-    "index": 123
+    "day": "Thursday"
   },
   {
     "date": "2022-05-06",
     "steps": 8195,
-    "index": 124
+    "day": "Friday"
   },
   {
     "date": "2022-05-07",
     "steps": 14905,
-    "index": 125
+    "day": "Saturday"
   },
   {
     "date": "2022-05-08",
     "steps": 375,
-    "index": 126
+    "day": "Sunday"
   },
   {
     "date": "2022-05-09",
     "steps": 2988,
-    "index": 127
+    "day": "Monday"
   },
   {
     "date": "2022-05-10",
     "steps": 1604,
-    "index": 128
+    "day": "Tuesday"
   },
   {
     "date": "2022-05-11",
     "steps": 2688,
-    "index": 129
+    "day": "Wednesday"
   },
   {
     "date": "2022-05-12",
     "steps": 9678,
-    "index": 130
+    "day": "Thursday"
   },
   {
     "date": "2022-05-13",
     "steps": 6961,
-    "index": 131
+    "day": "Friday"
   },
   {
     "date": "2022-05-14",
     "steps": 25963,
-    "index": 132
+    "day": "Saturday"
   },
   {
     "date": "2022-05-15",
     "steps": 10860,
-    "index": 133
+    "day": "Sunday"
   },
   {
     "date": "2022-05-16",
     "steps": 2388,
-    "index": 134
+    "day": "Monday"
   },
   {
     "date": "2022-05-17",
     "steps": 9728,
-    "index": 135
+    "day": "Tuesday"
   },
   {
     "date": "2022-05-18",
     "steps": 1505,
-    "index": 136
+    "day": "Wednesday"
   },
   {
     "date": "2022-05-19",
     "steps": 3683,
-    "index": 137
+    "day": "Thursday"
   },
   {
     "date": "2022-05-20",
     "steps": 16026,
-    "index": 138
+    "day": "Friday"
   },
   {
     "date": "2022-05-21",
     "steps": 12440,
-    "index": 139
+    "day": "Saturday"
   },
   {
     "date": "2022-05-22",
     "steps": 12245,
-    "index": 140
+    "day": "Sunday"
   },
   {
     "date": "2022-05-23",
     "steps": 2130,
-    "index": 141
+    "day": "Monday"
   },
   {
     "date": "2022-05-24",
     "steps": 3218,
-    "index": 142
+    "day": "Tuesday"
   },
   {
     "date": "2022-05-25",
     "steps": 2148,
-    "index": 143
+    "day": "Wednesday"
   },
   {
     "date": "2022-05-26",
     "steps": 3103,
-    "index": 144
+    "day": "Thursday"
   },
   {
     "date": "2022-05-27",
     "steps": 19810,
-    "index": 145
+    "day": "Friday"
   },
   {
     "date": "2022-05-28",
     "steps": 3345,
-    "index": 146
+    "day": "Saturday"
   },
   {
     "date": "2022-05-29",
     "steps": 12531,
-    "index": 147
+    "day": "Sunday"
   },
   {
     "date": "2022-05-30",
     "steps": 35,
-    "index": 148
+    "day": "Monday"
   },
   {
     "date": "2022-05-31",
     "steps": 1168,
-    "index": 149
+    "day": "Tuesday"
   },
   {
     "date": "2022-06-01",
     "steps": 5375,
-    "index": 150
+    "day": "Wednesday"
   },
   {
     "date": "2022-06-02",
     "steps": 8541,
-    "index": 151
+    "day": "Thursday"
   },
   {
     "date": "2022-06-03",
     "steps": 20043,
-    "index": 152
+    "day": "Friday"
   },
   {
     "date": "2022-06-04",
     "steps": 8202,
-    "index": 153
+    "day": "Saturday"
   },
   {
     "date": "2022-06-05",
     "steps": 15315,
-    "index": 154
+    "day": "Sunday"
   },
   {
     "date": "2022-06-06",
     "steps": 1355,
-    "index": 155
+    "day": "Monday"
   },
   {
     "date": "2022-06-07",
     "steps": 3814,
-    "index": 156
+    "day": "Tuesday"
   },
   {
     "date": "2022-06-08",
     "steps": 3918,
-    "index": 157
+    "day": "Wednesday"
   },
   {
     "date": "2022-06-09",
     "steps": 2122,
-    "index": 158
+    "day": "Thursday"
   },
   {
     "date": "2022-06-10",
     "steps": 13767,
-    "index": 159
+    "day": "Friday"
   },
   {
     "date": "2022-06-11",
     "steps": 41628,
-    "index": 160
+    "day": "Saturday"
   },
   {
     "date": "2022-06-12",
     "steps": 1512,
-    "index": 161
+    "day": "Sunday"
   },
   {
     "date": "2022-06-13",
     "steps": 1574,
-    "index": 162
+    "day": "Monday"
   },
   {
     "date": "2022-06-14",
     "steps": 2132,
-    "index": 163
+    "day": "Tuesday"
   },
   {
     "date": "2022-06-15",
     "steps": 2330,
-    "index": 164
+    "day": "Wednesday"
   },
   {
     "date": "2022-06-16",
     "steps": 2535,
-    "index": 165
+    "day": "Thursday"
   },
   {
     "date": "2022-06-17",
     "steps": 18950,
-    "index": 166
+    "day": "Friday"
   },
   {
     "date": "2022-06-18",
     "steps": 15246,
-    "index": 167
+    "day": "Saturday"
   },
   {
     "date": "2022-06-19",
     "steps": 8416,
-    "index": 168
+    "day": "Sunday"
   },
   {
     "date": "2022-06-20",
     "steps": 4061,
-    "index": 169
+    "day": "Monday"
   },
   {
     "date": "2022-06-21",
     "steps": 4053,
-    "index": 170
+    "day": "Tuesday"
   },
   {
     "date": "2022-06-22",
     "steps": 4022,
-    "index": 171
+    "day": "Wednesday"
   },
   {
     "date": "2022-06-23",
     "steps": 1900,
-    "index": 172
+    "day": "Thursday"
   },
   {
     "date": "2022-06-24",
     "steps": 18295,
-    "index": 173
+    "day": "Friday"
   },
   {
     "date": "2022-06-25",
     "steps": 13003,
-    "index": 174
+    "day": "Saturday"
   },
   {
     "date": "2022-06-26",
     "steps": 9177,
-    "index": 175
+    "day": "Sunday"
   },
   {
     "date": "2022-06-27",
     "steps": 907,
-    "index": 176
+    "day": "Monday"
   },
   {
     "date": "2022-06-28",
     "steps": 3821,
-    "index": 177
+    "day": "Tuesday"
   },
   {
     "date": "2022-06-29",
     "steps": 2995,
-    "index": 178
+    "day": "Wednesday"
   },
   {
     "date": "2022-06-30",
     "steps": 6110,
-    "index": 179
+    "day": "Thursday"
   },
   {
     "date": "2022-07-01",
     "steps": 12744,
-    "index": 180
+    "day": "Friday"
   },
   {
     "date": "2022-07-02",
     "steps": 5826,
-    "index": 181
+    "day": "Saturday"
   },
   {
     "date": "2022-07-03",
     "steps": 6094,
-    "index": 182
+    "day": "Sunday"
   },
   {
     "date": "2022-07-04",
     "steps": 2261,
-    "index": 183
+    "day": "Monday"
   },
   {
     "date": "2022-07-05",
     "steps": 2218,
-    "index": 184
+    "day": "Tuesday"
   },
   {
     "date": "2022-07-06",
     "steps": 4662,
-    "index": 185
+    "day": "Wednesday"
   },
   {
     "date": "2022-07-07",
     "steps": 1533,
-    "index": 186
+    "day": "Thursday"
   },
   {
     "date": "2022-07-08",
     "steps": 17115,
-    "index": 187
+    "day": "Friday"
   },
   {
     "date": "2022-07-09",
     "steps": 1340,
-    "index": 188
+    "day": "Saturday"
   },
   {
     "date": "2022-07-10",
     "steps": 1203,
-    "index": 189
+    "day": "Sunday"
   },
   {
     "date": "2022-07-11",
     "steps": 2841,
-    "index": 190
+    "day": "Monday"
   },
   {
     "date": "2022-07-12",
     "steps": 6507,
-    "index": 191
+    "day": "Tuesday"
   },
   {
     "date": "2022-07-13",
     "steps": 1790,
-    "index": 192
+    "day": "Wednesday"
   },
   {
     "date": "2022-07-14",
     "steps": 4029,
-    "index": 193
+    "day": "Thursday"
   },
   {
     "date": "2022-07-15",
     "steps": 7754,
-    "index": 194
+    "day": "Friday"
   },
   {
     "date": "2022-07-16",
     "steps": 7845,
-    "index": 195
+    "day": "Saturday"
   },
   {
     "date": "2022-07-17",
     "steps": 5450,
-    "index": 196
+    "day": "Sunday"
   },
   {
     "date": "2022-07-18",
     "steps": 2413,
-    "index": 197
+    "day": "Monday"
   },
   {
     "date": "2022-07-19",
     "steps": 2965,
-    "index": 198
+    "day": "Tuesday"
   },
   {
     "date": "2022-07-20",
     "steps": 1694,
-    "index": 199
+    "day": "Wednesday"
   },
   {
     "date": "2022-07-21",
     "steps": 6006,
-    "index": 200
+    "day": "Thursday"
   },
   {
     "date": "2022-07-22",
     "steps": 6740,
-    "index": 201
+    "day": "Friday"
   },
   {
     "date": "2022-07-23",
     "steps": 4469,
-    "index": 202
+    "day": "Saturday"
   },
   {
     "date": "2022-07-24",
     "steps": 3306,
-    "index": 203
+    "day": "Sunday"
   },
   {
     "date": "2022-07-25",
     "steps": 9092,
-    "index": 204
+    "day": "Monday"
   },
   {
     "date": "2022-07-26",
     "steps": 6132,
-    "index": 205
+    "day": "Tuesday"
   },
   {
     "date": "2022-07-27",
     "steps": 1291,
-    "index": 206
+    "day": "Wednesday"
   },
   {
     "date": "2022-07-28",
     "steps": 1812,
-    "index": 207
+    "day": "Thursday"
   },
   {
     "date": "2022-07-29",
     "steps": 7376,
-    "index": 208
+    "day": "Friday"
   },
   {
     "date": "2022-07-30",
     "steps": 9039,
-    "index": 209
+    "day": "Saturday"
   },
   {
     "date": "2022-07-31",
     "steps": 3629,
-    "index": 210
+    "day": "Sunday"
   },
   {
     "date": "2022-08-01",
     "steps": 3968,
-    "index": 211
+    "day": "Monday"
   },
   {
     "date": "2022-08-02",
     "steps": 4772,
-    "index": 212
+    "day": "Tuesday"
   },
   {
     "date": "2022-08-03",
     "steps": 8090,
-    "index": 213
+    "day": "Wednesday"
   },
   {
     "date": "2022-08-04",
     "steps": 4560,
-    "index": 214
+    "day": "Thursday"
   },
   {
     "date": "2022-08-05",
     "steps": 1575,
-    "index": 215
+    "day": "Friday"
   },
   {
     "date": "2022-08-06",
     "steps": 17252,
-    "index": 216
+    "day": "Saturday"
   },
   {
     "date": "2022-08-07",
     "steps": 2269,
-    "index": 217
+    "day": "Sunday"
   },
   {
     "date": "2022-08-08",
     "steps": 6529,
-    "index": 218
+    "day": "Monday"
   },
   {
     "date": "2022-08-09",
     "steps": 8765,
-    "index": 219
-  },
-  {
-    "date": "2022-08-10",
-    "steps": 12930,
-    "index": 220
+    "day": "Tuesday"
   },
   {
     "date": "2022-08-10",
     "steps": 10406,
-    "index": 221
+    "day": "Wednesday"
+  },
+  {
+    "date": "2022-08-10",
+    "steps": 12930,
+    "day": "Wednesday"
   },
   {
     "date": "2022-08-12",
     "steps": 9825,
-    "index": 222
+    "day": "Friday"
   },
   {
     "date": "2022-08-13",
     "steps": 17917,
-    "index": 223
+    "day": "Saturday"
   },
   {
     "date": "2022-08-14",
     "steps": 5972,
-    "index": 224
+    "day": "Sunday"
   },
   {
     "date": "2022-08-15",
     "steps": 9585,
-    "index": 225
+    "day": "Monday"
   },
   {
     "date": "2022-08-16",
     "steps": 1471,
-    "index": 226
+    "day": "Tuesday"
   },
   {
     "date": "2022-08-17",
     "steps": 10710,
-    "index": 227
+    "day": "Wednesday"
   },
   {
     "date": "2022-08-18",
     "steps": 10681,
-    "index": 228
+    "day": "Thursday"
   },
   {
     "date": "2022-08-19",
     "steps": 10427,
-    "index": 229
+    "day": "Friday"
   },
   {
     "date": "2022-08-20",
     "steps": 7796,
-    "index": 230
+    "day": "Saturday"
   },
   {
     "date": "2022-08-21",
     "steps": 7201,
-    "index": 231
+    "day": "Sunday"
   },
   {
     "date": "2022-08-22",
     "steps": 12120,
-    "index": 232
+    "day": "Monday"
   },
   {
     "date": "2022-08-23",
     "steps": 6472,
-    "index": 233
+    "day": "Tuesday"
   },
   {
     "date": "2022-08-24",
     "steps": 4051,
-    "index": 234
+    "day": "Wednesday"
   },
   {
     "date": "2022-08-25",
     "steps": 10755,
-    "index": 235
+    "day": "Thursday"
   },
   {
     "date": "2022-08-26",
     "steps": 10822,
-    "index": 236
+    "day": "Friday"
   },
   {
     "date": "2022-08-27",
     "steps": 13776,
-    "index": 237
+    "day": "Saturday"
   },
   {
     "date": "2022-08-28",
     "steps": 5480,
-    "index": 238
+    "day": "Sunday"
   },
   {
     "date": "2022-08-29",
     "steps": 8290,
-    "index": 239
+    "day": "Monday"
   },
   {
     "date": "2022-08-30",
     "steps": 3156,
-    "index": 240
+    "day": "Tuesday"
   },
   {
     "date": "2022-08-31",
     "steps": 6890,
-    "index": 241
+    "day": "Wednesday"
   },
   {
     "date": "2022-09-01",
     "steps": 9066,
-    "index": 242
+    "day": "Thursday"
   },
   {
     "date": "2022-09-02",
     "steps": 8347,
-    "index": 243
+    "day": "Friday"
   },
   {
     "date": "2022-09-03",
     "steps": 4779,
-    "index": 244
+    "day": "Saturday"
   },
   {
     "date": "2022-09-04",
     "steps": 8304,
-    "index": 245
+    "day": "Sunday"
   },
   {
     "date": "2022-09-05",
     "steps": 261,
-    "index": 246
+    "day": "Monday"
   },
   {
     "date": "2022-09-06",
     "steps": 7057,
-    "index": 247
+    "day": "Tuesday"
   },
   {
     "date": "2022-09-07",
     "steps": 7159,
-    "index": 248
+    "day": "Wednesday"
   },
   {
     "date": "2022-09-08",
     "steps": 2705,
-    "index": 249
+    "day": "Thursday"
   },
   {
     "date": "2022-09-09",
     "steps": 5300,
-    "index": 250
+    "day": "Friday"
   },
   {
     "date": "2022-09-10",
     "steps": 10035,
-    "index": 251
+    "day": "Saturday"
   },
   {
     "date": "2022-09-11",
     "steps": 8628,
-    "index": 252
+    "day": "Sunday"
   },
   {
     "date": "2022-09-12",
     "steps": 7170,
-    "index": 253
+    "day": "Monday"
   },
   {
     "date": "2022-09-13",
     "steps": 7823,
-    "index": 254
+    "day": "Tuesday"
   },
   {
     "date": "2022-09-14",
     "steps": 11871,
-    "index": 255
+    "day": "Wednesday"
   },
   {
     "date": "2022-09-15",
     "steps": 7782,
-    "index": 256
+    "day": "Thursday"
   },
   {
     "date": "2022-09-16",
     "steps": 23053,
-    "index": 257
+    "day": "Friday"
   },
   {
     "date": "2022-09-17",
     "steps": 19889,
-    "index": 258
+    "day": "Saturday"
   },
   {
     "date": "2022-09-18",
     "steps": 8342,
-    "index": 259
+    "day": "Sunday"
   },
   {
     "date": "2022-09-19",
     "steps": 3681,
-    "index": 260
+    "day": "Monday"
   },
   {
     "date": "2022-09-20",
     "steps": 6435,
-    "index": 261
+    "day": "Tuesday"
   },
   {
     "date": "2022-09-21",
     "steps": 7499,
-    "index": 262
+    "day": "Wednesday"
   },
   {
     "date": "2022-09-22",
     "steps": 6295,
-    "index": 263
+    "day": "Thursday"
   },
   {
     "date": "2022-09-23",
     "steps": 14941,
-    "index": 264
+    "day": "Friday"
   },
   {
     "date": "2022-09-24",
     "steps": 13687,
-    "index": 265
+    "day": "Saturday"
   },
   {
     "date": "2022-09-25",
     "steps": 8039,
-    "index": 266
+    "day": "Sunday"
   },
   {
     "date": "2022-09-26",
     "steps": 3921,
-    "index": 267
+    "day": "Monday"
   },
   {
     "date": "2022-09-27",
     "steps": 9530,
-    "index": 268
+    "day": "Tuesday"
   },
   {
     "date": "2022-09-28",
     "steps": 8598,
-    "index": 269
+    "day": "Wednesday"
   },
   {
     "date": "2022-09-29",
     "steps": 4593,
-    "index": 270
+    "day": "Thursday"
   },
   {
     "date": "2022-09-30",
     "steps": 2687,
-    "index": 271
+    "day": "Friday"
   },
   {
     "date": "2022-10-01",
     "steps": 6306,
-    "index": 272
+    "day": "Saturday"
   },
   {
     "date": "2022-10-02",
     "steps": 7758,
-    "index": 273
+    "day": "Sunday"
   },
   {
     "date": "2022-10-03",
     "steps": 4871,
-    "index": 274
+    "day": "Monday"
   },
   {
     "date": "2022-10-04",
     "steps": 4155,
-    "index": 275
+    "day": "Tuesday"
   },
   {
     "date": "2022-10-05",
     "steps": 4451,
-    "index": 276
+    "day": "Wednesday"
   },
   {
     "date": "2022-10-06",
     "steps": 2784,
-    "index": 277
+    "day": "Thursday"
   },
   {
     "date": "2022-10-07",
     "steps": 15501,
-    "index": 278
+    "day": "Friday"
   },
   {
     "date": "2022-10-08",
     "steps": 13026,
-    "index": 279
+    "day": "Saturday"
   },
   {
     "date": "2022-10-09",
     "steps": 4102,
-    "index": 280
+    "day": "Sunday"
   },
   {
     "date": "2022-10-10",
     "steps": 2648,
-    "index": 281
+    "day": "Monday"
   },
   {
     "date": "2022-10-11",
     "steps": 4648,
-    "index": 282
+    "day": "Tuesday"
   },
   {
     "date": "2022-10-12",
     "steps": 8113,
-    "index": 283
+    "day": "Wednesday"
   },
   {
     "date": "2022-10-13",
     "steps": 5766,
-    "index": 284
+    "day": "Thursday"
   },
   {
     "date": "2022-10-14",
     "steps": 13377,
-    "index": 285
+    "day": "Friday"
   },
   {
     "date": "2022-10-15",
     "steps": 8060,
-    "index": 286
+    "day": "Saturday"
   },
   {
     "date": "2022-10-16",
     "steps": 15605,
-    "index": 287
+    "day": "Sunday"
   },
   {
     "date": "2022-10-17",
     "steps": 3689,
-    "index": 288
+    "day": "Monday"
   },
   {
     "date": "2022-10-18",
     "steps": 4696,
-    "index": 289
+    "day": "Tuesday"
   },
   {
     "date": "2022-10-20",
     "steps": 1813,
-    "index": 290
+    "day": "Thursday"
   },
   {
     "date": "2022-10-21",
     "steps": 7859,
-    "index": 291
+    "day": "Friday"
   },
   {
     "date": "2022-10-22",
     "steps": 18131,
-    "index": 292
+    "day": "Saturday"
   },
   {
     "date": "2022-10-23",
     "steps": 12405,
-    "index": 293
+    "day": "Sunday"
   },
   {
     "date": "2022-10-24",
     "steps": 5801,
-    "index": 294
+    "day": "Monday"
   },
   {
     "date": "2022-10-25",
     "steps": 828,
-    "index": 295
+    "day": "Tuesday"
   },
   {
     "date": "2022-10-26",
     "steps": 6491,
-    "index": 296
+    "day": "Wednesday"
   },
   {
     "date": "2022-10-27",
     "steps": 6948,
-    "index": 297
+    "day": "Thursday"
   },
   {
     "date": "2022-10-28",
     "steps": 25530,
-    "index": 298
+    "day": "Friday"
   },
   {
     "date": "2022-10-29",
     "steps": 19183,
-    "index": 299
+    "day": "Saturday"
   },
   {
     "date": "2022-10-30",
     "steps": 10786,
-    "index": 300
+    "day": "Sunday"
   },
   {
     "date": "2022-10-31",
     "steps": 8903,
-    "index": 301
+    "day": "Monday"
   },
   {
     "date": "2022-11-01",
     "steps": 6941,
-    "index": 302
+    "day": "Tuesday"
   },
   {
     "date": "2022-11-02",
     "steps": 6485,
-    "index": 303
+    "day": "Wednesday"
   },
   {
     "date": "2022-11-03",
     "steps": 7305,
-    "index": 304
+    "day": "Thursday"
   },
   {
     "date": "2022-11-04",
     "steps": 3311,
-    "index": 305
+    "day": "Friday"
   },
   {
     "date": "2022-11-05",
     "steps": 12538,
-    "index": 306
+    "day": "Saturday"
   },
   {
     "date": "2022-11-06",
     "steps": 17373,
-    "index": 307
+    "day": "Sunday"
   },
   {
     "date": "2022-11-07",
     "steps": 9111,
-    "index": 308
+    "day": "Monday"
   },
   {
     "date": "2022-11-08",
     "steps": 5778,
-    "index": 309
+    "day": "Tuesday"
   },
   {
     "date": "2022-11-09",
     "steps": 4904,
-    "index": 310
+    "day": "Wednesday"
   },
   {
     "date": "2022-11-10",
     "steps": 1815,
-    "index": 311
+    "day": "Thursday"
   },
   {
     "date": "2022-11-11",
     "steps": 6409,
-    "index": 312
+    "day": "Friday"
   },
   {
     "date": "2022-11-12",
     "steps": 18634,
-    "index": 313
+    "day": "Saturday"
   },
   {
     "date": "2022-11-13",
     "steps": 9675,
-    "index": 314
+    "day": "Sunday"
   },
   {
     "date": "2022-11-14",
     "steps": 6641,
-    "index": 315
+    "day": "Monday"
   },
   {
     "date": "2022-11-15",
     "steps": 7532,
-    "index": 316
+    "day": "Tuesday"
   },
   {
     "date": "2022-11-16",
     "steps": 10684,
-    "index": 317
+    "day": "Wednesday"
   },
   {
     "date": "2022-11-17",
     "steps": 1526,
-    "index": 318
+    "day": "Thursday"
   },
   {
     "date": "2022-11-18",
     "steps": 10667,
-    "index": 319
+    "day": "Friday"
   },
   {
     "date": "2022-11-19",
     "steps": 13398,
-    "index": 320
+    "day": "Saturday"
   },
   {
     "date": "2022-11-20",
     "steps": 7322,
-    "index": 321
+    "day": "Sunday"
   },
   {
     "date": "2022-11-21",
     "steps": 6195,
-    "index": 322
+    "day": "Monday"
   },
   {
     "date": "2022-11-22",
     "steps": 3710,
-    "index": 323
+    "day": "Tuesday"
   },
   {
     "date": "2022-11-23",
     "steps": 16298,
-    "index": 324
+    "day": "Wednesday"
   },
   {
     "date": "2022-11-24",
     "steps": 17027,
-    "index": 325
+    "day": "Thursday"
   },
   {
     "date": "2022-11-25",
     "steps": 18055,
-    "index": 326
+    "day": "Friday"
   },
   {
     "date": "2022-11-26",
     "steps": 16979,
-    "index": 327
+    "day": "Saturday"
   },
   {
     "date": "2022-11-27",
     "steps": 15171,
-    "index": 328
+    "day": "Sunday"
   },
   {
     "date": "2022-11-28",
     "steps": 10274,
-    "index": 329
+    "day": "Monday"
   },
   {
     "date": "2022-11-29",
     "steps": 3051,
-    "index": 330
+    "day": "Tuesday"
   },
   {
     "date": "2022-11-30",
     "steps": 11758,
-    "index": 331
+    "day": "Wednesday"
   },
   {
     "date": "2022-12-01",
     "steps": 759,
-    "index": 332
+    "day": "Thursday"
   },
   {
     "date": "2022-12-02",
     "steps": 6759,
-    "index": 333
+    "day": "Friday"
   },
   {
     "date": "2022-12-03",
     "steps": 17024,
-    "index": 334
+    "day": "Saturday"
   },
   {
     "date": "2022-12-04",
     "steps": 1559,
-    "index": 335
+    "day": "Sunday"
   },
   {
     "date": "2022-12-05",
     "steps": 4604,
-    "index": 336
+    "day": "Monday"
   },
   {
     "date": "2022-12-06",
     "steps": 4872,
-    "index": 337
+    "day": "Tuesday"
   },
   {
     "date": "2022-12-07",
     "steps": 4982,
-    "index": 338
+    "day": "Wednesday"
   },
   {
     "date": "2022-12-08",
     "steps": 9494,
-    "index": 339
+    "day": "Thursday"
   },
   {
     "date": "2022-12-09",
     "steps": 15016,
-    "index": 340
+    "day": "Friday"
   },
   {
     "date": "2022-12-10",
     "steps": 6286,
-    "index": 341
+    "day": "Saturday"
   },
   {
     "date": "2022-12-11",
     "steps": 9906,
-    "index": 342
+    "day": "Sunday"
   },
   {
     "date": "2022-12-12",
     "steps": 6286,
-    "index": 343
+    "day": "Monday"
   },
   {
     "date": "2022-12-13",
     "steps": 6303,
-    "index": 344
+    "day": "Tuesday"
   },
   {
     "date": "2022-12-14",
     "steps": 5309,
-    "index": 345
+    "day": "Wednesday"
   },
   {
     "date": "2022-12-15",
     "steps": 5990,
-    "index": 346
+    "day": "Thursday"
   },
   {
     "date": "2022-12-16",
     "steps": 12946,
-    "index": 347
+    "day": "Friday"
   },
   {
     "date": "2022-12-17",
     "steps": 14490,
-    "index": 348
+    "day": "Saturday"
   },
   {
     "date": "2022-12-18",
     "steps": 6564,
-    "index": 349
+    "day": "Sunday"
   },
   {
     "date": "2022-12-19",
     "steps": 1301,
-    "index": 350
+    "day": "Monday"
   },
   {
     "date": "2022-12-20",
     "steps": 2126,
-    "index": 351
+    "day": "Tuesday"
   },
   {
     "date": "2022-12-21",
     "steps": 16498,
-    "index": 352
+    "day": "Wednesday"
   },
   {
     "date": "2022-12-22",
     "steps": 164,
-    "index": 353
+    "day": "Thursday"
   },
   {
     "date": "2022-12-23",
     "steps": 4316,
-    "index": 354
+    "day": "Friday"
   },
   {
     "date": "2022-12-24",
     "steps": 8520,
-    "index": 355
+    "day": "Saturday"
   },
   {
     "date": "2022-12-25",
     "steps": 5362,
-    "index": 356
+    "day": "Sunday"
   },
   {
     "date": "2022-12-26",
     "steps": 16519,
-    "index": 357
+    "day": "Monday"
   },
   {
     "date": "2022-12-27",
     "steps": 11428,
-    "index": 358
+    "day": "Tuesday"
   },
   {
     "date": "2022-12-28",
     "steps": 2774,
-    "index": 359
+    "day": "Wednesday"
   },
   {
     "date": "2022-12-29",
     "steps": 3150,
-    "index": 360
+    "day": "Thursday"
   },
   {
     "date": "2022-12-30",
     "steps": 1939,
-    "index": 361
+    "day": "Friday"
   },
   {
     "date": "2022-12-31",
     "steps": 7778,
-    "index": 362
+    "day": "Saturday"
   },
   {
     "date": "2023-01-01",
     "steps": 2660,
-    "index": 363
+    "day": "Sunday"
   },
   {
     "date": "2023-01-02",
     "steps": 8479,
-    "index": 364
+    "day": "Monday"
   },
   {
     "date": "2023-01-03",
     "steps": 4264,
-    "index": 365
+    "day": "Tuesday"
   },
   {
     "date": "2023-01-04",
     "steps": 3761,
-    "index": 366
+    "day": "Wednesday"
   },
   {
     "date": "2023-01-05",
     "steps": 4265,
-    "index": 367
+    "day": "Thursday"
   },
   {
     "date": "2023-01-06",
     "steps": 3299,
-    "index": 368
+    "day": "Friday"
   },
   {
     "date": "2023-01-07",
     "steps": 5829,
-    "index": 369
+    "day": "Saturday"
   },
   {
     "date": "2023-01-08",
     "steps": 13980,
-    "index": 370
+    "day": "Sunday"
   },
   {
     "date": "2023-01-09",
     "steps": 5767,
-    "index": 371
+    "day": "Monday"
   },
   {
     "date": "2023-01-10",
     "steps": 1553,
-    "index": 372
+    "day": "Tuesday"
   },
   {
     "date": "2023-01-11",
     "steps": 4520,
-    "index": 373
+    "day": "Wednesday"
   },
   {
     "date": "2023-01-12",
     "steps": 6725,
-    "index": 374
+    "day": "Thursday"
   },
   {
     "date": "2023-01-13",
     "steps": 4098,
-    "index": 375
+    "day": "Friday"
   },
   {
     "date": "2023-01-14",
     "steps": 3534,
-    "index": 376
+    "day": "Saturday"
   },
   {
     "date": "2023-01-15",
     "steps": 1071,
-    "index": 377
+    "day": "Sunday"
   },
   {
     "date": "2023-01-16",
     "steps": 366,
-    "index": 378
+    "day": "Monday"
   },
   {
     "date": "2023-01-17",
     "steps": 2696,
-    "index": 379
+    "day": "Tuesday"
   },
   {
     "date": "2023-01-18",
     "steps": 7474,
-    "index": 380
+    "day": "Wednesday"
   },
   {
     "date": "2023-01-19",
     "steps": 7735,
-    "index": 381
+    "day": "Thursday"
   },
   {
     "date": "2023-01-20",
     "steps": 7090,
-    "index": 382
+    "day": "Friday"
   },
   {
     "date": "2023-01-21",
     "steps": 25735,
-    "index": 383
+    "day": "Saturday"
   },
   {
     "date": "2023-01-22",
     "steps": 3544,
-    "index": 384
+    "day": "Sunday"
   },
   {
     "date": "2023-01-23",
     "steps": 5263,
-    "index": 385
+    "day": "Monday"
   },
   {
     "date": "2023-01-24",
     "steps": 2985,
-    "index": 386
+    "day": "Tuesday"
   },
   {
     "date": "2023-01-25",
     "steps": 5754,
-    "index": 387
+    "day": "Wednesday"
   },
   {
     "date": "2023-01-26",
     "steps": 10416,
-    "index": 388
+    "day": "Thursday"
   },
   {
     "date": "2023-01-27",
     "steps": 9209,
-    "index": 389
+    "day": "Friday"
   },
   {
     "date": "2023-01-28",
     "steps": 7693,
-    "index": 390
+    "day": "Saturday"
   },
   {
     "date": "2023-01-29",
     "steps": 9642,
-    "index": 391
+    "day": "Sunday"
   },
   {
     "date": "2023-01-30",
     "steps": 6453,
-    "index": 392
+    "day": "Monday"
   },
   {
     "date": "2023-01-31",
     "steps": 4273,
-    "index": 393
+    "day": "Tuesday"
   },
   {
     "date": "2023-02-01",
     "steps": 11672,
-    "index": 394
+    "day": "Wednesday"
   },
   {
     "date": "2023-02-02",
     "steps": 6534,
-    "index": 395
+    "day": "Thursday"
   },
   {
     "date": "2023-02-03",
     "steps": 11966,
-    "index": 396
+    "day": "Friday"
   },
   {
     "date": "2023-02-04",
     "steps": 8187,
-    "index": 397
+    "day": "Saturday"
   },
   {
     "date": "2023-02-05",
     "steps": 7043,
-    "index": 398
+    "day": "Sunday"
   },
   {
     "date": "2023-02-06",
     "steps": 7241,
-    "index": 399
+    "day": "Monday"
   },
   {
     "date": "2023-02-07",
     "steps": 6506,
-    "index": 400
+    "day": "Tuesday"
   },
   {
     "date": "2023-02-08",
     "steps": 14967,
-    "index": 401
+    "day": "Wednesday"
   },
   {
     "date": "2023-02-09",
     "steps": 16778,
-    "index": 402
+    "day": "Thursday"
   },
   {
     "date": "2023-02-10",
     "steps": 1196,
-    "index": 403
+    "day": "Friday"
   },
   {
     "date": "2023-02-11",
     "steps": 8559,
-    "index": 404
+    "day": "Saturday"
   },
   {
     "date": "2023-02-12",
     "steps": 10786,
-    "index": 405
+    "day": "Sunday"
   },
   {
     "date": "2023-02-13",
     "steps": 5520,
-    "index": 406
+    "day": "Monday"
   },
   {
     "date": "2023-02-14",
     "steps": 4605,
-    "index": 407
+    "day": "Tuesday"
   },
   {
     "date": "2023-02-15",
     "steps": 10815,
-    "index": 408
+    "day": "Wednesday"
   },
   {
     "date": "2023-02-16",
     "steps": 6042,
-    "index": 409
+    "day": "Thursday"
   },
   {
     "date": "2023-02-17",
     "steps": 11720,
-    "index": 410
+    "day": "Friday"
   },
   {
     "date": "2023-02-18",
     "steps": 3480,
-    "index": 411
+    "day": "Saturday"
   },
   {
     "date": "2023-02-19",
     "steps": 15767,
-    "index": 412
+    "day": "Sunday"
   },
   {
     "date": "2023-02-20",
     "steps": 9735,
-    "index": 413
+    "day": "Monday"
   },
   {
     "date": "2023-02-21",
     "steps": 2089,
-    "index": 414
+    "day": "Tuesday"
   },
   {
     "date": "2023-02-22",
     "steps": 13553,
-    "index": 415
+    "day": "Wednesday"
   },
   {
     "date": "2023-02-23",
     "steps": 8705,
-    "index": 416
+    "day": "Thursday"
   },
   {
     "date": "2023-02-24",
     "steps": 8482,
-    "index": 417
+    "day": "Friday"
   },
   {
     "date": "2023-02-25",
     "steps": 7552,
-    "index": 418
+    "day": "Saturday"
   },
   {
     "date": "2023-02-26",
     "steps": 19027,
-    "index": 419
+    "day": "Sunday"
   },
   {
     "date": "2023-02-27",
     "steps": 616,
-    "index": 420
+    "day": "Monday"
   },
   {
     "date": "2023-02-28",
     "steps": 9559,
-    "index": 421
+    "day": "Tuesday"
   },
   {
     "date": "2023-03-01",
     "steps": 8171,
-    "index": 422
+    "day": "Wednesday"
   },
   {
     "date": "2023-03-02",
     "steps": 3048,
-    "index": 423
+    "day": "Thursday"
   },
   {
     "date": "2023-03-03",
     "steps": 11070,
-    "index": 424
+    "day": "Friday"
   },
   {
     "date": "2023-03-04",
     "steps": 5084,
-    "index": 425
+    "day": "Saturday"
   },
   {
     "date": "2023-03-05",
     "steps": 15189,
-    "index": 426
+    "day": "Sunday"
   },
   {
     "date": "2023-03-06",
     "steps": 1150,
-    "index": 427
+    "day": "Monday"
   },
   {
     "date": "2023-03-07",
     "steps": 12920,
-    "index": 428
+    "day": "Tuesday"
   },
   {
     "date": "2023-03-08",
     "steps": 8784,
-    "index": 429
+    "day": "Wednesday"
   },
   {
     "date": "2023-03-09",
     "steps": 11020,
-    "index": 430
+    "day": "Thursday"
   },
   {
     "date": "2023-03-10",
     "steps": 12754,
-    "index": 431
+    "day": "Friday"
   },
   {
     "date": "2023-03-11",
     "steps": 6097,
-    "index": 432
+    "day": "Saturday"
   },
   {
     "date": "2023-03-12",
     "steps": 9569,
-    "index": 433
+    "day": "Sunday"
   },
   {
     "date": "2023-03-13",
     "steps": 4723,
-    "index": 434
+    "day": "Monday"
   },
   {
     "date": "2023-03-14",
     "steps": 11825,
-    "index": 435
+    "day": "Tuesday"
   },
   {
     "date": "2023-03-15",
     "steps": 9670,
-    "index": 436
+    "day": "Wednesday"
   },
   {
     "date": "2023-03-16",
     "steps": 6010,
-    "index": 437
+    "day": "Thursday"
   },
   {
     "date": "2023-03-17",
     "steps": 10724,
-    "index": 438
+    "day": "Friday"
   },
   {
     "date": "2023-03-18",
     "steps": 11085,
-    "index": 439
+    "day": "Saturday"
   },
   {
     "date": "2023-03-19",
     "steps": 4692,
-    "index": 440
+    "day": "Sunday"
   },
   {
     "date": "2023-03-20",
     "steps": 4337,
-    "index": 441
+    "day": "Monday"
   },
   {
     "date": "2023-03-21",
     "steps": 10502,
-    "index": 442
+    "day": "Tuesday"
   },
   {
     "date": "2023-03-22",
     "steps": 10720,
-    "index": 443
+    "day": "Wednesday"
   },
   {
     "date": "2023-03-23",
     "steps": 7153,
-    "index": 444
+    "day": "Thursday"
   },
   {
     "date": "2023-03-24",
     "steps": 11446,
-    "index": 445
+    "day": "Friday"
   },
   {
     "date": "2023-03-25",
     "steps": 4060,
-    "index": 446
+    "day": "Saturday"
   },
   {
     "date": "2023-03-26",
     "steps": 9382,
-    "index": 447
+    "day": "Sunday"
   },
   {
     "date": "2023-03-27",
     "steps": 4306,
-    "index": 448
+    "day": "Monday"
   },
   {
     "date": "2023-03-28",
     "steps": 10839,
-    "index": 449
+    "day": "Tuesday"
   },
   {
     "date": "2023-03-29",
     "steps": 6083,
-    "index": 450
+    "day": "Wednesday"
   },
   {
     "date": "2023-03-30",
     "steps": 5079,
-    "index": 451
+    "day": "Thursday"
   },
   {
     "date": "2023-03-31",
     "steps": 3219,
-    "index": 452
+    "day": "Friday"
   },
   {
     "date": "2023-04-01",
     "steps": 14889,
-    "index": 453
+    "day": "Saturday"
   },
   {
     "date": "2023-04-02",
     "steps": 11425,
-    "index": 454
+    "day": "Sunday"
   },
   {
     "date": "2023-04-03",
     "steps": 4570,
-    "index": 455
+    "day": "Monday"
   },
   {
     "date": "2023-04-04",
     "steps": 14142,
-    "index": 456
+    "day": "Tuesday"
   },
   {
     "date": "2023-04-05",
     "steps": 7224,
-    "index": 457
+    "day": "Wednesday"
   },
   {
     "date": "2023-04-06",
     "steps": 3725,
-    "index": 458
+    "day": "Thursday"
   },
   {
     "date": "2023-04-07",
     "steps": 12000,
-    "index": 459
+    "day": "Friday"
   },
   {
     "date": "2023-04-08",
     "steps": 10532,
-    "index": 460
+    "day": "Saturday"
   },
   {
     "date": "2023-04-09",
     "steps": 19442,
-    "index": 461
+    "day": "Sunday"
   },
   {
     "date": "2023-04-10",
     "steps": 10368,
-    "index": 462
+    "day": "Monday"
   },
   {
     "date": "2023-04-11",
     "steps": 7282,
-    "index": 463
+    "day": "Tuesday"
   },
   {
     "date": "2023-04-12",
     "steps": 7332,
-    "index": 464
+    "day": "Wednesday"
   },
   {
     "date": "2023-04-13",
     "steps": 9263,
-    "index": 465
+    "day": "Thursday"
   },
   {
     "date": "2023-04-14",
     "steps": 12267,
-    "index": 466
+    "day": "Friday"
   },
   {
     "date": "2023-04-15",
     "steps": 13813,
-    "index": 467
+    "day": "Saturday"
   },
   {
     "date": "2023-04-16",
     "steps": 10623,
-    "index": 468
+    "day": "Sunday"
   },
   {
     "date": "2023-04-17",
     "steps": 9473,
-    "index": 469
+    "day": "Monday"
   },
   {
     "date": "2023-04-18",
     "steps": 10414,
-    "index": 470
+    "day": "Tuesday"
   },
   {
     "date": "2023-04-19",
     "steps": 6215,
-    "index": 471
+    "day": "Wednesday"
   },
   {
     "date": "2023-04-20",
     "steps": 9085,
-    "index": 472
+    "day": "Thursday"
   },
   {
     "date": "2023-04-21",
     "steps": 11785,
-    "index": 473
+    "day": "Friday"
   },
   {
     "date": "2023-04-22",
     "steps": 7005,
-    "index": 474
+    "day": "Saturday"
   },
   {
     "date": "2023-04-23",
     "steps": 14072,
-    "index": 475
+    "day": "Sunday"
   },
   {
     "date": "2023-04-24",
     "steps": 7301,
-    "index": 476
+    "day": "Monday"
   },
   {
     "date": "2023-04-25",
     "steps": 11969,
-    "index": 477
+    "day": "Tuesday"
   },
   {
     "date": "2023-04-26",
     "steps": 3358,
-    "index": 478
+    "day": "Wednesday"
   },
   {
     "date": "2023-04-27",
     "steps": 8885,
-    "index": 479
+    "day": "Thursday"
   },
   {
     "date": "2023-04-28",
     "steps": 10548,
-    "index": 480
+    "day": "Friday"
   },
   {
     "date": "2023-04-29",
     "steps": 14765,
-    "index": 481
+    "day": "Saturday"
   },
   {
     "date": "2023-04-30",
     "steps": 16971,
-    "index": 482
+    "day": "Sunday"
   },
   {
     "date": "2023-05-01",
     "steps": 10351,
-    "index": 483
+    "day": "Monday"
   },
   {
     "date": "2023-05-02",
     "steps": 17236,
-    "index": 484
+    "day": "Tuesday"
   },
   {
     "date": "2023-05-03",
     "steps": 21092,
-    "index": 485
+    "day": "Wednesday"
   },
   {
     "date": "2023-05-04",
     "steps": 21363,
-    "index": 486
+    "day": "Thursday"
   },
   {
     "date": "2023-05-05",
     "steps": 15914,
-    "index": 487
+    "day": "Friday"
   },
   {
     "date": "2023-05-06",
     "steps": 23999,
-    "index": 488
+    "day": "Saturday"
   },
   {
     "date": "2023-05-07",
     "steps": 18821,
-    "index": 489
+    "day": "Sunday"
   },
   {
     "date": "2023-05-08",
     "steps": 13981,
-    "index": 490
+    "day": "Monday"
   },
   {
     "date": "2023-05-09",
     "steps": 28643,
-    "index": 491
+    "day": "Tuesday"
   },
   {
     "date": "2023-05-10",
     "steps": 7763,
-    "index": 492
+    "day": "Wednesday"
   },
   {
     "date": "2023-05-11",
     "steps": 11293,
-    "index": 493
+    "day": "Thursday"
   },
   {
     "date": "2023-05-12",
     "steps": 23510,
-    "index": 494
+    "day": "Friday"
   },
   {
     "date": "2023-05-13",
     "steps": 16043,
-    "index": 495
+    "day": "Saturday"
   },
   {
     "date": "2023-05-14",
     "steps": 4518,
-    "index": 496
+    "day": "Sunday"
   },
   {
     "date": "2023-05-15",
     "steps": 13617,
-    "index": 497
+    "day": "Monday"
   },
   {
     "date": "2023-05-16",
     "steps": 14928,
-    "index": 498
+    "day": "Tuesday"
   },
   {
     "date": "2023-05-17",
     "steps": 4834,
-    "index": 499
+    "day": "Wednesday"
   },
   {
     "date": "2023-05-18",
     "steps": 13283,
-    "index": 500
+    "day": "Thursday"
   },
   {
     "date": "2023-05-19",
     "steps": 9910,
-    "index": 501
+    "day": "Friday"
   },
   {
     "date": "2023-05-20",
     "steps": 27566,
-    "index": 502
+    "day": "Saturday"
   },
   {
     "date": "2023-05-21",
     "steps": 12547,
-    "index": 503
+    "day": "Sunday"
   },
   {
     "date": "2023-05-22",
     "steps": 11359,
-    "index": 504
+    "day": "Monday"
   },
   {
     "date": "2023-05-23",
     "steps": 14396,
-    "index": 505
+    "day": "Tuesday"
   },
   {
     "date": "2023-05-24",
     "steps": 5580,
-    "index": 506
+    "day": "Wednesday"
   },
   {
     "date": "2023-05-25",
     "steps": 13684,
-    "index": 507
+    "day": "Thursday"
   },
   {
     "date": "2023-05-26",
     "steps": 11201,
-    "index": 508
+    "day": "Friday"
   },
   {
     "date": "2023-05-27",
     "steps": 5015,
-    "index": 509
+    "day": "Saturday"
   },
   {
     "date": "2023-05-28",
     "steps": 16520,
-    "index": 510
+    "day": "Sunday"
   },
   {
     "date": "2023-05-29",
     "steps": 17237,
-    "index": 511
+    "day": "Monday"
   },
   {
     "date": "2023-05-30",
     "steps": 13658,
-    "index": 512
+    "day": "Tuesday"
   },
   {
     "date": "2023-05-31",
     "steps": 5768,
-    "index": 513
+    "day": "Wednesday"
   },
   {
     "date": "2023-06-01",
     "steps": 8466,
-    "index": 514
+    "day": "Thursday"
   },
   {
     "date": "2023-06-02",
     "steps": 14618,
-    "index": 515
+    "day": "Friday"
   },
   {
     "date": "2023-06-03",
     "steps": 13590,
-    "index": 516
+    "day": "Saturday"
   },
   {
     "date": "2023-06-04",
     "steps": 10285,
-    "index": 517
+    "day": "Sunday"
   },
   {
     "date": "2023-06-05",
     "steps": 10040,
-    "index": 518
+    "day": "Monday"
   },
   {
     "date": "2023-06-06",
     "steps": 10534,
-    "index": 519
+    "day": "Tuesday"
   },
   {
     "date": "2023-06-07",
     "steps": 1336,
-    "index": 520
+    "day": "Wednesday"
   },
   {
     "date": "2023-06-08",
     "steps": 11824,
-    "index": 521
+    "day": "Thursday"
   },
   {
     "date": "2023-06-09",
     "steps": 13368,
-    "index": 522
+    "day": "Friday"
   },
   {
     "date": "2023-06-10",
     "steps": 15569,
-    "index": 523
+    "day": "Saturday"
   },
   {
     "date": "2023-06-11",
     "steps": 873,
-    "index": 524
+    "day": "Sunday"
   },
   {
     "date": "2023-06-12",
     "steps": 8781,
-    "index": 525
+    "day": "Monday"
   },
   {
     "date": "2023-06-13",
     "steps": 3438,
-    "index": 526
+    "day": "Tuesday"
   },
   {
     "date": "2023-06-14",
     "steps": 5302,
-    "index": 527
+    "day": "Wednesday"
   },
   {
     "date": "2023-06-15",
     "steps": 2780,
-    "index": 528
+    "day": "Thursday"
   },
   {
     "date": "2023-06-16",
     "steps": 3847,
-    "index": 529
+    "day": "Friday"
   },
   {
     "date": "2023-06-17",
     "steps": 18305,
-    "index": 530
+    "day": "Saturday"
   },
   {
     "date": "2023-06-18",
     "steps": 2881,
-    "index": 531
+    "day": "Sunday"
   },
   {
     "date": "2023-06-19",
     "steps": 2383,
-    "index": 532
+    "day": "Monday"
   },
   {
     "date": "2023-06-20",
     "steps": 1554,
-    "index": 533
+    "day": "Tuesday"
   },
   {
     "date": "2023-06-21",
     "steps": 6325,
-    "index": 534
+    "day": "Wednesday"
   },
   {
     "date": "2023-06-22",
     "steps": 6071,
-    "index": 535
+    "day": "Thursday"
   },
   {
     "date": "2023-06-23",
     "steps": 2936,
-    "index": 536
+    "day": "Friday"
   },
   {
     "date": "2023-06-24",
     "steps": 17336,
-    "index": 537
+    "day": "Saturday"
   },
   {
     "date": "2023-06-25",
     "steps": 1514,
-    "index": 538
+    "day": "Sunday"
   },
   {
     "date": "2023-06-26",
     "steps": 6571,
-    "index": 539
+    "day": "Monday"
   },
   {
     "date": "2023-06-27",
     "steps": 5858,
-    "index": 540
+    "day": "Tuesday"
   },
   {
     "date": "2023-06-28",
     "steps": 7746,
-    "index": 541
+    "day": "Wednesday"
   },
   {
     "date": "2023-06-29",
     "steps": 12814,
-    "index": 542
+    "day": "Thursday"
   },
   {
     "date": "2023-06-30",
     "steps": 15530,
-    "index": 543
+    "day": "Friday"
   },
   {
     "date": "2023-07-01",
     "steps": 8385,
-    "index": 544
+    "day": "Saturday"
   },
   {
     "date": "2023-07-02",
     "steps": 5400,
-    "index": 545
+    "day": "Sunday"
   },
   {
     "date": "2023-07-03",
     "steps": 4818,
-    "index": 546
+    "day": "Monday"
   },
   {
     "date": "2023-07-04",
     "steps": 5136,
-    "index": 547
+    "day": "Tuesday"
   },
   {
     "date": "2023-07-05",
     "steps": 6311,
-    "index": 548
+    "day": "Wednesday"
   },
   {
     "date": "2023-07-06",
     "steps": 6585,
-    "index": 549
+    "day": "Thursday"
   },
   {
     "date": "2023-07-07",
     "steps": 4232,
-    "index": 550
+    "day": "Friday"
   },
   {
     "date": "2023-07-08",
     "steps": 4599,
-    "index": 551
+    "day": "Saturday"
   },
   {
     "date": "2023-07-09",
     "steps": 3869,
-    "index": 552
+    "day": "Sunday"
   },
   {
     "date": "2023-07-10",
     "steps": 8692,
-    "index": 553
+    "day": "Monday"
   },
   {
     "date": "2023-07-11",
     "steps": 4844,
-    "index": 554
+    "day": "Tuesday"
   },
   {
     "date": "2023-07-12",
     "steps": 11160,
-    "index": 555
+    "day": "Wednesday"
   },
   {
     "date": "2023-07-13",
     "steps": 15968,
-    "index": 556
+    "day": "Thursday"
   },
   {
     "date": "2023-07-14",
     "steps": 11237,
-    "index": 557
+    "day": "Friday"
   },
   {
     "date": "2023-07-15",
     "steps": 12739,
-    "index": 558
+    "day": "Saturday"
   },
   {
     "date": "2023-07-16",
     "steps": 11943,
-    "index": 559
+    "day": "Sunday"
   },
   {
     "date": "2023-07-17",
     "steps": 2281,
-    "index": 560
+    "day": "Monday"
   },
   {
     "date": "2023-07-18",
     "steps": 6980,
-    "index": 561
+    "day": "Tuesday"
   },
   {
     "date": "2023-07-19",
     "steps": 11343,
-    "index": 562
+    "day": "Wednesday"
   },
   {
     "date": "2023-07-20",
     "steps": 7603,
-    "index": 563
+    "day": "Thursday"
   },
   {
     "date": "2023-07-21",
     "steps": 22253,
-    "index": 564
+    "day": "Friday"
   },
   {
     "date": "2023-07-22",
     "steps": 22680,
-    "index": 565
+    "day": "Saturday"
   },
   {
     "date": "2023-07-23",
     "steps": 4354,
-    "index": 566
+    "day": "Sunday"
   },
   {
     "date": "2023-07-24",
     "steps": 70897,
-    "index": 567
+    "day": "Monday"
   },
   {
     "date": "2023-07-25",
     "steps": 5148,
-    "index": 568
+    "day": "Tuesday"
   },
   {
     "date": "2023-07-26",
     "steps": 7729,
-    "index": 569
+    "day": "Wednesday"
   },
   {
     "date": "2023-07-27",
     "steps": 3702,
-    "index": 570
+    "day": "Thursday"
   },
   {
     "date": "2023-07-28",
     "steps": 7513,
-    "index": 571
+    "day": "Friday"
   },
   {
     "date": "2023-07-29",
     "steps": 17092,
-    "index": 572
+    "day": "Saturday"
   },
   {
     "date": "2023-07-30",
     "steps": 619,
-    "index": 573
+    "day": "Sunday"
   },
   {
     "date": "2023-07-31",
     "steps": 3272,
-    "index": 574
+    "day": "Monday"
   },
   {
     "date": "2023-08-01",
     "steps": 4407,
-    "index": 575
+    "day": "Tuesday"
   },
   {
     "date": "2023-08-02",
     "steps": 8471,
-    "index": 576
+    "day": "Wednesday"
   },
   {
     "date": "2023-08-03",
     "steps": 11376,
-    "index": 577
+    "day": "Thursday"
   },
   {
     "date": "2023-08-04",
     "steps": 10727,
-    "index": 578
+    "day": "Friday"
   },
   {
     "date": "2023-08-05",
     "steps": 13224,
-    "index": 579
+    "day": "Saturday"
   },
   {
     "date": "2023-08-06",
     "steps": 13403,
-    "index": 580
+    "day": "Sunday"
   },
   {
     "date": "2023-08-07",
     "steps": 10664,
-    "index": 581
+    "day": "Monday"
   },
   {
     "date": "2023-08-08",
     "steps": 5163,
-    "index": 582
+    "day": "Tuesday"
   },
   {
     "date": "2023-08-09",
     "steps": 10093,
-    "index": 583
+    "day": "Wednesday"
   },
   {
     "date": "2023-08-10",
     "steps": 4131,
-    "index": 584
+    "day": "Thursday"
   },
   {
     "date": "2023-08-11",
     "steps": 14823,
-    "index": 585
+    "day": "Friday"
   },
   {
     "date": "2023-08-12",
     "steps": 4225,
-    "index": 586
+    "day": "Saturday"
   },
   {
     "date": "2023-08-13",
     "steps": 14911,
-    "index": 587
+    "day": "Sunday"
   },
   {
     "date": "2023-08-14",
     "steps": 2844,
-    "index": 588
+    "day": "Monday"
   },
   {
     "date": "2023-08-15",
     "steps": 3306,
-    "index": 589
+    "day": "Tuesday"
   },
   {
     "date": "2023-08-16",
     "steps": 18367,
-    "index": 590
+    "day": "Wednesday"
   },
   {
     "date": "2023-08-17",
     "steps": 9677,
-    "index": 591
+    "day": "Thursday"
   },
   {
     "date": "2023-08-18",
     "steps": 4815,
-    "index": 592
+    "day": "Friday"
   },
   {
     "date": "2023-08-19",
     "steps": 5963,
-    "index": 593
+    "day": "Saturday"
   },
   {
     "date": "2023-08-20",
     "steps": 13434,
-    "index": 594
+    "day": "Sunday"
   },
   {
     "date": "2023-08-21",
     "steps": 13461,
-    "index": 595
+    "day": "Monday"
   },
   {
     "date": "2023-08-22",
     "steps": 8783,
-    "index": 596
+    "day": "Tuesday"
   },
   {
     "date": "2023-08-23",
     "steps": 4731,
-    "index": 597
+    "day": "Wednesday"
   },
   {
     "date": "2023-08-24",
     "steps": 12304,
-    "index": 598
+    "day": "Thursday"
   },
   {
     "date": "2023-08-25",
     "steps": 228,
-    "index": 599
+    "day": "Friday"
   },
   {
     "date": "2023-08-26",
     "steps": 8009,
-    "index": 600
+    "day": "Saturday"
   },
   {
     "date": "2023-08-27",
     "steps": 14444,
-    "index": 601
+    "day": "Sunday"
   },
   {
     "date": "2023-08-28",
     "steps": 11147,
-    "index": 602
+    "day": "Monday"
   },
   {
     "date": "2023-08-29",
     "steps": 7131,
-    "index": 603
+    "day": "Tuesday"
   },
   {
     "date": "2023-08-30",
     "steps": 9423,
-    "index": 604
+    "day": "Wednesday"
   },
   {
     "date": "2023-09-01",
     "steps": 11908,
-    "index": 605
+    "day": "Friday"
   },
   {
     "date": "2023-09-02",
     "steps": 8417,
-    "index": 606
+    "day": "Saturday"
   },
   {
     "date": "2023-09-03",
     "steps": 4473,
-    "index": 607
+    "day": "Sunday"
   },
   {
     "date": "2023-09-04",
     "steps": 19273,
-    "index": 608
+    "day": "Monday"
   },
   {
     "date": "2023-09-05",
     "steps": 15547,
-    "index": 609
+    "day": "Tuesday"
   },
   {
     "date": "2023-09-06",
     "steps": 11558,
-    "index": 610
+    "day": "Wednesday"
   },
   {
     "date": "2023-09-07",
     "steps": 5564,
-    "index": 611
+    "day": "Thursday"
   },
   {
     "date": "2023-09-08",
     "steps": 11076,
-    "index": 612
+    "day": "Friday"
   },
   {
     "date": "2023-09-09",
     "steps": 11914,
-    "index": 613
+    "day": "Saturday"
   },
   {
     "date": "2023-09-10",
     "steps": 18449,
-    "index": 614
+    "day": "Sunday"
   },
   {
     "date": "2023-09-11",
     "steps": 10712,
-    "index": 615
+    "day": "Monday"
   },
   {
     "date": "2023-09-12",
     "steps": 9159,
-    "index": 616
+    "day": "Tuesday"
   },
   {
     "date": "2023-09-13",
     "steps": 9031,
-    "index": 617
+    "day": "Wednesday"
   },
   {
     "date": "2023-09-14",
     "steps": 6984,
-    "index": 618
+    "day": "Thursday"
   },
   {
     "date": "2023-09-15",
     "steps": 13491,
-    "index": 619
+    "day": "Friday"
   },
   {
     "date": "2023-09-16",
     "steps": 10837,
-    "index": 620
+    "day": "Saturday"
   },
   {
     "date": "2023-09-17",
     "steps": 12016,
-    "index": 621
+    "day": "Sunday"
   },
   {
     "date": "2023-09-18",
     "steps": 6523,
-    "index": 622
+    "day": "Monday"
   },
   {
     "date": "2023-09-19",
     "steps": 7612,
-    "index": 623
+    "day": "Tuesday"
   },
   {
     "date": "2023-09-20",
     "steps": 7962,
-    "index": 624
+    "day": "Wednesday"
   },
   {
     "date": "2023-09-21",
     "steps": 5487,
-    "index": 625
+    "day": "Thursday"
   },
   {
     "date": "2023-09-22",
     "steps": 12471,
-    "index": 626
+    "day": "Friday"
   },
   {
     "date": "2023-09-23",
     "steps": 9832,
-    "index": 627
+    "day": "Saturday"
   },
   {
     "date": "2023-09-24",
     "steps": 9680,
-    "index": 628
+    "day": "Sunday"
   },
   {
     "date": "2023-09-25",
     "steps": 5812,
-    "index": 629
+    "day": "Monday"
   },
   {
     "date": "2023-09-26",
     "steps": 6771,
-    "index": 630
+    "day": "Tuesday"
   },
   {
     "date": "2023-09-27",
     "steps": 5939,
-    "index": 631
+    "day": "Wednesday"
   },
   {
     "date": "2023-09-28",
     "steps": 6319,
-    "index": 632
+    "day": "Thursday"
   },
   {
     "date": "2023-09-30",
     "steps": 9695,
-    "index": 633
+    "day": "Saturday"
   },
   {
     "date": "2023-10-01",
     "steps": 18716,
-    "index": 634
+    "day": "Sunday"
   },
   {
     "date": "2023-10-02",
     "steps": 3874,
-    "index": 635
+    "day": "Monday"
   },
   {
     "date": "2023-10-03",
     "steps": 3195,
-    "index": 636
+    "day": "Tuesday"
   },
   {
     "date": "2023-10-04",
     "steps": 8454,
-    "index": 637
+    "day": "Wednesday"
   },
   {
     "date": "2023-10-05",
     "steps": 6315,
-    "index": 638
+    "day": "Thursday"
   },
   {
     "date": "2023-10-06",
     "steps": 11383,
-    "index": 639
+    "day": "Friday"
   },
   {
     "date": "2023-10-07",
     "steps": 11259,
-    "index": 640
+    "day": "Saturday"
   },
   {
     "date": "2023-10-08",
     "steps": 8920,
-    "index": 641
+    "day": "Sunday"
   },
   {
     "date": "2023-10-09",
     "steps": 543,
-    "index": 642
+    "day": "Monday"
   },
   {
     "date": "2023-10-10",
     "steps": 8074,
-    "index": 643
+    "day": "Tuesday"
   },
   {
     "date": "2023-10-11",
     "steps": 6888,
-    "index": 644
+    "day": "Wednesday"
   },
   {
     "date": "2023-10-12",
     "steps": 5287,
-    "index": 645
+    "day": "Thursday"
   },
   {
     "date": "2023-10-13",
     "steps": 11716,
-    "index": 646
+    "day": "Friday"
   },
   {
     "date": "2023-10-14",
     "steps": 10120,
-    "index": 647
+    "day": "Saturday"
   },
   {
     "date": "2023-10-15",
     "steps": 11539,
-    "index": 648
+    "day": "Sunday"
   },
   {
     "date": "2023-10-16",
     "steps": 4749,
-    "index": 649
+    "day": "Monday"
   },
   {
     "date": "2023-10-17",
     "steps": 8099,
-    "index": 650
+    "day": "Tuesday"
   },
   {
     "date": "2023-10-18",
     "steps": 9126,
-    "index": 651
+    "day": "Wednesday"
   },
   {
     "date": "2023-10-19",
     "steps": 5336,
-    "index": 652
+    "day": "Thursday"
   },
   {
     "date": "2023-10-20",
     "steps": 12338,
-    "index": 653
+    "day": "Friday"
   },
   {
     "date": "2023-10-21",
     "steps": 9018,
-    "index": 654
+    "day": "Saturday"
   },
   {
     "date": "2023-10-22",
     "steps": 12075,
-    "index": 655
+    "day": "Sunday"
   },
   {
     "date": "2023-10-23",
     "steps": 9312,
-    "index": 656
+    "day": "Monday"
   },
   {
     "date": "2023-10-24",
     "steps": 2576,
-    "index": 657
+    "day": "Tuesday"
   },
   {
     "date": "2023-10-25",
     "steps": 273,
-    "index": 658
+    "day": "Wednesday"
   },
   {
     "date": "2023-10-26",
     "steps": 4630,
-    "index": 659
+    "day": "Thursday"
   },
   {
     "date": "2023-10-27",
     "steps": 16636,
-    "index": 660
+    "day": "Friday"
   },
   {
     "date": "2023-10-28",
     "steps": 10454,
-    "index": 661
+    "day": "Saturday"
   },
   {
     "date": "2023-10-29",
     "steps": 11348,
-    "index": 662
+    "day": "Sunday"
   },
   {
     "date": "2023-10-30",
     "steps": 7037,
-    "index": 663
+    "day": "Monday"
   },
   {
     "date": "2023-11-01",
     "steps": 4948,
-    "index": 664
+    "day": "Wednesday"
   },
   {
     "date": "2023-11-02",
     "steps": 5968,
-    "index": 665
+    "day": "Thursday"
   },
   {
     "date": "2023-11-03",
     "steps": 7256,
-    "index": 666
+    "day": "Friday"
   },
   {
     "date": "2023-11-04",
     "steps": 10388,
-    "index": 667
+    "day": "Saturday"
   },
   {
     "date": "2023-11-05",
     "steps": 9978,
-    "index": 668
+    "day": "Sunday"
   },
   {
     "date": "2023-11-06",
     "steps": 7433,
-    "index": 669
+    "day": "Monday"
   },
   {
     "date": "2023-11-07",
     "steps": 6962,
-    "index": 670
+    "day": "Tuesday"
   },
   {
     "date": "2023-11-08",
     "steps": 5572,
-    "index": 671
+    "day": "Wednesday"
   },
   {
     "date": "2023-11-09",
     "steps": 5199,
-    "index": 672
+    "day": "Thursday"
   },
   {
     "date": "2023-11-10",
     "steps": 720,
-    "index": 673
+    "day": "Friday"
   },
   {
     "date": "2023-11-11",
     "steps": 14246,
-    "index": 674
+    "day": "Saturday"
   },
   {
     "date": "2023-11-12",
     "steps": 11801,
-    "index": 675
+    "day": "Sunday"
   },
   {
     "date": "2023-11-13",
     "steps": 4834,
-    "index": 676
+    "day": "Monday"
   },
   {
     "date": "2023-11-14",
     "steps": 2785,
-    "index": 677
+    "day": "Tuesday"
   },
   {
     "date": "2023-11-15",
     "steps": 4115,
-    "index": 678
+    "day": "Wednesday"
   },
   {
     "date": "2023-11-16",
     "steps": 7663,
-    "index": 679
+    "day": "Thursday"
   },
   {
     "date": "2023-11-17",
     "steps": 7831,
-    "index": 680
+    "day": "Friday"
   },
   {
     "date": "2023-11-18",
     "steps": 15742,
-    "index": 681
+    "day": "Saturday"
   },
   {
     "date": "2023-11-19",
     "steps": 9964,
-    "index": 682
+    "day": "Sunday"
   },
   {
     "date": "2023-11-20",
     "steps": 4754,
-    "index": 683
+    "day": "Monday"
   },
   {
     "date": "2023-11-21",
     "steps": 10478,
-    "index": 684
+    "day": "Tuesday"
   },
   {
     "date": "2023-11-22",
     "steps": 11315,
-    "index": 685
+    "day": "Wednesday"
   },
   {
     "date": "2023-11-23",
     "steps": 23440,
-    "index": 686
+    "day": "Thursday"
   },
   {
     "date": "2023-11-24",
     "steps": 12168,
-    "index": 687
+    "day": "Friday"
   },
   {
     "date": "2023-11-25",
     "steps": 9268,
-    "index": 688
+    "day": "Saturday"
   },
   {
     "date": "2023-11-26",
     "steps": 8617,
-    "index": 689
+    "day": "Sunday"
   },
   {
     "date": "2023-11-27",
     "steps": 4627,
-    "index": 690
+    "day": "Monday"
   },
   {
     "date": "2023-11-28",
     "steps": 2531,
-    "index": 691
+    "day": "Tuesday"
   },
   {
     "date": "2023-11-29",
     "steps": 7822,
-    "index": 692
+    "day": "Wednesday"
   },
   {
     "date": "2023-11-30",
     "steps": 4849,
-    "index": 693
+    "day": "Thursday"
   },
   {
     "date": "2023-12-01",
     "steps": 9726,
-    "index": 694
+    "day": "Friday"
   },
   {
     "date": "2023-12-02",
     "steps": 9171,
-    "index": 695
+    "day": "Saturday"
   },
   {
     "date": "2023-12-03",
     "steps": 9807,
-    "index": 696
+    "day": "Sunday"
   },
   {
     "date": "2023-12-04",
     "steps": 4913,
-    "index": 697
+    "day": "Monday"
   },
   {
     "date": "2023-12-05",
     "steps": 3817,
-    "index": 698
+    "day": "Tuesday"
   },
   {
     "date": "2023-12-06",
     "steps": 2323,
-    "index": 699
+    "day": "Wednesday"
   },
   {
     "date": "2023-12-07",
     "steps": 4650,
-    "index": 700
+    "day": "Thursday"
   },
   {
     "date": "2023-12-08",
     "steps": 12326,
-    "index": 701
+    "day": "Friday"
   },
   {
     "date": "2023-12-09",
     "steps": 11035,
-    "index": 702
+    "day": "Saturday"
   },
   {
     "date": "2023-12-10",
     "steps": 19821,
-    "index": 703
+    "day": "Sunday"
   },
   {
     "date": "2023-12-11",
     "steps": 3847,
-    "index": 704
+    "day": "Monday"
   },
   {
     "date": "2023-12-12",
     "steps": 5798,
-    "index": 705
+    "day": "Tuesday"
   },
   {
     "date": "2023-12-13",
     "steps": 15469,
-    "index": 706
+    "day": "Wednesday"
   },
   {
     "date": "2023-12-14",
     "steps": 15553,
-    "index": 707
+    "day": "Thursday"
   },
   {
     "date": "2023-12-15",
     "steps": 20670,
-    "index": 708
+    "day": "Friday"
   },
   {
     "date": "2023-12-16",
     "steps": 9506,
-    "index": 709
+    "day": "Saturday"
   },
   {
     "date": "2023-12-17",
     "steps": 11905,
-    "index": 710
+    "day": "Sunday"
   },
   {
     "date": "2023-12-18",
     "steps": 7494,
-    "index": 711
+    "day": "Monday"
   },
   {
     "date": "2023-12-19",
     "steps": 18614,
-    "index": 712
+    "day": "Tuesday"
   },
   {
     "date": "2023-12-20",
     "steps": 9048,
-    "index": 713
+    "day": "Wednesday"
   },
   {
     "date": "2023-12-21",
     "steps": 10644,
-    "index": 714
+    "day": "Thursday"
   },
   {
     "date": "2023-12-22",
     "steps": 11701,
-    "index": 715
+    "day": "Friday"
   },
   {
     "date": "2023-12-23",
     "steps": 10553,
-    "index": 716
+    "day": "Saturday"
   },
   {
     "date": "2023-12-24",
     "steps": 11941,
-    "index": 717
+    "day": "Sunday"
   },
   {
     "date": "2023-12-25",
     "steps": 15858,
-    "index": 718
+    "day": "Monday"
   },
   {
     "date": "2023-12-26",
     "steps": 18776,
-    "index": 719
+    "day": "Tuesday"
   },
   {
     "date": "2023-12-27",
     "steps": 13714,
-    "index": 720
+    "day": "Wednesday"
   },
   {
     "date": "2023-12-28",
     "steps": 20903,
-    "index": 721
+    "day": "Thursday"
   },
   {
     "date": "2023-12-29",
     "steps": 12304,
-    "index": 722
+    "day": "Friday"
   },
   {
     "date": "2023-12-30",
     "steps": 14028,
-    "index": 723
+    "day": "Saturday"
   },
   {
     "date": "2023-12-31",
     "steps": 13714,
-    "index": 724
+    "day": "Sunday"
   },
   {
     "date": "2024-01-01",
     "steps": 18976,
-    "index": 725
+    "day": "Monday"
   },
   {
     "date": "2024-01-02",
     "steps": 8206,
-    "index": 726
+    "day": "Tuesday"
   },
   {
     "date": "2024-01-03",
     "steps": 5422,
-    "index": 727
+    "day": "Wednesday"
   },
   {
     "date": "2024-01-04",
     "steps": 9727,
-    "index": 728
+    "day": "Thursday"
   },
   {
     "date": "2024-01-05",
     "steps": 7164,
-    "index": 729
+    "day": "Friday"
   },
   {
     "date": "2024-01-06",
     "steps": 11587,
-    "index": 730
+    "day": "Saturday"
   },
   {
     "date": "2024-01-07",
     "steps": 9038,
-    "index": 731
+    "day": "Sunday"
   },
   {
     "date": "2024-01-08",
     "steps": 8671,
-    "index": 732
+    "day": "Monday"
   },
   {
     "date": "2024-01-09",
     "steps": 16501,
-    "index": 733
+    "day": "Tuesday"
   },
   {
     "date": "2024-01-10",
     "steps": 616,
-    "index": 734
+    "day": "Wednesday"
   },
   {
     "date": "2024-01-11",
     "steps": 13147,
-    "index": 735
+    "day": "Thursday"
   },
   {
     "date": "2024-01-12",
     "steps": 5000,
-    "index": 736
+    "day": "Friday"
   },
   {
     "date": "2024-01-13",
     "steps": 9666,
-    "index": 737
+    "day": "Saturday"
   },
   {
     "date": "2024-01-14",
     "steps": 9570,
-    "index": 738
+    "day": "Sunday"
   },
   {
     "date": "2024-01-15",
     "steps": 481,
-    "index": 739
+    "day": "Monday"
   },
   {
     "date": "2024-01-16",
     "steps": 5960,
-    "index": 740
+    "day": "Tuesday"
   },
   {
     "date": "2024-01-17",
     "steps": 6233,
-    "index": 741
+    "day": "Wednesday"
   },
   {
     "date": "2024-01-18",
     "steps": 6522,
-    "index": 742
+    "day": "Thursday"
   },
   {
     "date": "2024-01-19",
     "steps": 328,
-    "index": 743
+    "day": "Friday"
   },
   {
     "date": "2024-01-20",
     "steps": 11579,
-    "index": 744
+    "day": "Saturday"
   },
   {
     "date": "2024-01-21",
     "steps": 1397,
-    "index": 745
+    "day": "Sunday"
   },
   {
     "date": "2024-01-22",
     "steps": 7140,
-    "index": 746
+    "day": "Monday"
   },
   {
     "date": "2024-01-23",
     "steps": 4375,
-    "index": 747
+    "day": "Tuesday"
   },
   {
     "date": "2024-01-24",
     "steps": 4597,
-    "index": 748
+    "day": "Wednesday"
   },
   {
     "date": "2024-01-25",
     "steps": 5004,
-    "index": 749
+    "day": "Thursday"
   },
   {
     "date": "2024-01-26",
     "steps": 8077,
-    "index": 750
+    "day": "Friday"
   },
   {
     "date": "2024-01-27",
     "steps": 12038,
-    "index": 751
+    "day": "Saturday"
   },
   {
     "date": "2024-01-28",
     "steps": 5170,
-    "index": 752
+    "day": "Sunday"
   },
   {
     "date": "2024-01-29",
     "steps": 3945,
-    "index": 753
+    "day": "Monday"
   },
   {
     "date": "2024-01-30",
     "steps": 9252,
-    "index": 754
+    "day": "Tuesday"
   },
   {
     "date": "2024-01-31",
     "steps": 3330,
-    "index": 755
+    "day": "Wednesday"
   },
   {
     "date": "2024-02-01",
     "steps": 3658,
-    "index": 756
+    "day": "Thursday"
   },
   {
     "date": "2024-02-02",
     "steps": 4985,
-    "index": 757
+    "day": "Friday"
   },
   {
     "date": "2024-02-03",
     "steps": 9969,
-    "index": 758
+    "day": "Saturday"
   },
   {
     "date": "2024-02-04",
     "steps": 1455,
-    "index": 759
+    "day": "Sunday"
   },
   {
     "date": "2024-02-05",
     "steps": 3832,
-    "index": 760
+    "day": "Monday"
   },
   {
     "date": "2024-02-06",
     "steps": 13491,
-    "index": 761
+    "day": "Tuesday"
   },
   {
     "date": "2024-02-07",
     "steps": 6505,
-    "index": 762
+    "day": "Wednesday"
   },
   {
     "date": "2024-02-08",
     "steps": 4085,
-    "index": 763
+    "day": "Thursday"
   },
   {
     "date": "2024-02-09",
     "steps": 8325,
-    "index": 764
+    "day": "Friday"
   },
   {
     "date": "2024-02-10",
     "steps": 3399,
-    "index": 765
+    "day": "Saturday"
   },
   {
     "date": "2024-02-11",
     "steps": 1395,
-    "index": 766
+    "day": "Sunday"
   },
   {
     "date": "2024-02-12",
     "steps": 6191,
-    "index": 767
+    "day": "Monday"
   },
   {
     "date": "2024-02-13",
     "steps": 1996,
-    "index": 768
+    "day": "Tuesday"
   },
   {
     "date": "2024-02-14",
     "steps": 1400,
-    "index": 769
+    "day": "Wednesday"
   },
   {
     "date": "2024-02-15",
     "steps": 5366,
-    "index": 770
+    "day": "Thursday"
   },
   {
     "date": "2024-02-16",
     "steps": 3692,
-    "index": 771
+    "day": "Friday"
   },
   {
     "date": "2024-02-17",
     "steps": 5726,
-    "index": 772
+    "day": "Saturday"
   },
   {
     "date": "2024-02-18",
     "steps": 3643,
-    "index": 773
+    "day": "Sunday"
   },
   {
     "date": "2024-02-19",
     "steps": 4326,
-    "index": 774
+    "day": "Monday"
   },
   {
     "date": "2024-02-20",
     "steps": 3946,
-    "index": 775
+    "day": "Tuesday"
   },
   {
     "date": "2024-02-21",
     "steps": 3228,
-    "index": 776
+    "day": "Wednesday"
   },
   {
     "date": "2024-02-22",
     "steps": 3322,
-    "index": 777
+    "day": "Thursday"
   },
   {
     "date": "2024-02-23",
     "steps": 5215,
-    "index": 778
+    "day": "Friday"
   },
   {
     "date": "2024-02-24",
     "steps": 5267,
-    "index": 779
+    "day": "Saturday"
   },
   {
     "date": "2024-02-25",
     "steps": 208,
-    "index": 780
+    "day": "Sunday"
   },
   {
     "date": "2024-02-26",
     "steps": 4317,
-    "index": 781
+    "day": "Monday"
   },
   {
     "date": "2024-02-27",
     "steps": 4402,
-    "index": 782
+    "day": "Tuesday"
   },
   {
     "date": "2024-02-28",
     "steps": 2660,
-    "index": 783
+    "day": "Wednesday"
   },
   {
     "date": "2024-02-29",
     "steps": 6317,
-    "index": 784
+    "day": "Thursday"
   },
   {
     "date": "2024-03-01",
     "steps": 6198,
-    "index": 785
+    "day": "Friday"
   },
   {
     "date": "2024-03-02",
     "steps": 2455,
-    "index": 786
+    "day": "Saturday"
   },
   {
     "date": "2024-03-03",
     "steps": 11982,
-    "index": 787
+    "day": "Sunday"
   },
   {
     "date": "2024-03-04",
     "steps": 3173,
-    "index": 788
+    "day": "Monday"
   },
   {
     "date": "2024-03-05",
     "steps": 10397,
-    "index": 789
+    "day": "Tuesday"
   },
   {
     "date": "2024-03-06",
     "steps": 331,
-    "index": 790
+    "day": "Wednesday"
   },
   {
     "date": "2024-03-07",
     "steps": 7185,
-    "index": 791
+    "day": "Thursday"
   },
   {
     "date": "2024-03-08",
     "steps": 5665,
-    "index": 792
+    "day": "Friday"
   },
   {
     "date": "2024-03-09",
     "steps": 5617,
-    "index": 793
+    "day": "Saturday"
   },
   {
     "date": "2024-03-10",
     "steps": 203,
-    "index": 794
+    "day": "Sunday"
   },
   {
     "date": "2024-03-11",
     "steps": 6949,
-    "index": 795
+    "day": "Monday"
   },
   {
     "date": "2024-03-12",
     "steps": 7279,
-    "index": 796
+    "day": "Tuesday"
   },
   {
     "date": "2024-03-13",
     "steps": 9010,
-    "index": 797
+    "day": "Wednesday"
   },
   {
     "date": "2024-03-14",
     "steps": 5443,
-    "index": 798
+    "day": "Thursday"
   },
   {
     "date": "2024-03-15",
     "steps": 12895,
-    "index": 799
+    "day": "Friday"
   },
   {
     "date": "2024-03-16",
     "steps": 301,
-    "index": 800
+    "day": "Saturday"
   },
   {
     "date": "2024-03-17",
     "steps": 2057,
-    "index": 801
+    "day": "Sunday"
   },
   {
     "date": "2024-03-18",
     "steps": 3261,
-    "index": 802
+    "day": "Monday"
   },
   {
     "date": "2024-03-19",
     "steps": 5754,
-    "index": 803
+    "day": "Tuesday"
   },
   {
     "date": "2024-03-20",
     "steps": 2623,
-    "index": 804
+    "day": "Wednesday"
   },
   {
     "date": "2024-03-21",
     "steps": 4689,
-    "index": 805
+    "day": "Thursday"
   },
   {
     "date": "2024-03-22",
     "steps": 9270,
-    "index": 806
+    "day": "Friday"
   },
   {
     "date": "2024-03-23",
     "steps": 6568,
-    "index": 807
+    "day": "Saturday"
   },
   {
     "date": "2024-03-24",
     "steps": 2831,
-    "index": 808
+    "day": "Sunday"
   },
   {
     "date": "2024-03-25",
     "steps": 8600,
-    "index": 809
+    "day": "Monday"
   },
   {
     "date": "2024-03-26",
     "steps": 4017,
-    "index": 810
+    "day": "Tuesday"
   },
   {
     "date": "2024-03-27",
     "steps": 3244,
-    "index": 811
+    "day": "Wednesday"
   },
   {
     "date": "2024-03-28",
     "steps": 4599,
-    "index": 812
+    "day": "Thursday"
   },
   {
     "date": "2024-03-29",
     "steps": 7099,
-    "index": 813
+    "day": "Friday"
   },
   {
     "date": "2024-03-30",
     "steps": 1703,
-    "index": 814
+    "day": "Saturday"
   },
   {
     "date": "2024-03-31",
     "steps": 13868,
-    "index": 815
+    "day": "Sunday"
   },
   {
     "date": "2024-04-01",
     "steps": 4661,
-    "index": 816
+    "day": "Monday"
   },
   {
     "date": "2024-04-02",
     "steps": 7569,
-    "index": 817
+    "day": "Tuesday"
   },
   {
     "date": "2024-04-03",
     "steps": 4557,
-    "index": 818
+    "day": "Wednesday"
   },
   {
     "date": "2024-04-04",
     "steps": 7743,
-    "index": 819
+    "day": "Thursday"
   },
   {
     "date": "2024-04-05",
     "steps": 16616,
-    "index": 820
+    "day": "Friday"
   },
   {
     "date": "2024-04-06",
     "steps": 18527,
-    "index": 821
+    "day": "Saturday"
   },
   {
     "date": "2024-04-07",
     "steps": 9483,
-    "index": 822
+    "day": "Sunday"
   },
   {
     "date": "2024-04-08",
     "steps": 4335,
-    "index": 823
+    "day": "Monday"
   },
   {
     "date": "2024-04-09",
     "steps": 17466,
-    "index": 824
+    "day": "Tuesday"
   },
   {
     "date": "2024-04-10",
     "steps": 7171,
-    "index": 825
+    "day": "Wednesday"
   },
   {
     "date": "2024-04-11",
     "steps": 7117,
-    "index": 826
+    "day": "Thursday"
   },
   {
     "date": "2024-04-12",
     "steps": 16163,
-    "index": 827
+    "day": "Friday"
   },
   {
     "date": "2024-04-13",
     "steps": 12842,
-    "index": 828
+    "day": "Saturday"
   },
   {
     "date": "2024-04-14",
     "steps": 4533,
-    "index": 829
+    "day": "Sunday"
   },
   {
     "date": "2024-04-15",
     "steps": 6728,
-    "index": 830
+    "day": "Monday"
   },
   {
     "date": "2024-04-16",
     "steps": 15665,
-    "index": 831
+    "day": "Tuesday"
   },
   {
     "date": "2024-04-17",
     "steps": 3339,
-    "index": 832
+    "day": "Wednesday"
   },
   {
     "date": "2024-04-18",
     "steps": 4809,
-    "index": 833
+    "day": "Thursday"
   },
   {
     "date": "2024-04-19",
     "steps": 15331,
-    "index": 834
+    "day": "Friday"
   },
   {
     "date": "2024-04-20",
     "steps": 15061,
-    "index": 835
+    "day": "Saturday"
   },
   {
     "date": "2024-04-21",
     "steps": 15174,
-    "index": 836
+    "day": "Sunday"
   },
   {
     "date": "2024-04-22",
     "steps": 6268,
-    "index": 837
+    "day": "Monday"
   },
   {
     "date": "2024-04-23",
     "steps": 8873,
-    "index": 838
+    "day": "Tuesday"
   },
   {
     "date": "2024-04-24",
     "steps": 4889,
-    "index": 839
+    "day": "Wednesday"
   },
   {
     "date": "2024-04-25",
     "steps": 8669,
-    "index": 840
+    "day": "Thursday"
   },
   {
     "date": "2024-04-26",
     "steps": 16727,
-    "index": 841
+    "day": "Friday"
   },
   {
     "date": "2024-04-27",
     "steps": 17946,
-    "index": 842
+    "day": "Saturday"
   },
   {
     "date": "2024-04-28",
     "steps": 5825,
-    "index": 843
+    "day": "Sunday"
   },
   {
     "date": "2024-04-29",
     "steps": 6837,
-    "index": 844
+    "day": "Monday"
   },
   {
     "date": "2024-04-30",
     "steps": 22374,
-    "index": 845
+    "day": "Tuesday"
   },
   {
     "date": "2024-05-01",
     "steps": 9238,
-    "index": 846
+    "day": "Wednesday"
   },
   {
     "date": "2024-05-02",
     "steps": 13586,
-    "index": 847
+    "day": "Thursday"
   },
   {
     "date": "2024-05-03",
     "steps": 11215,
-    "index": 848
+    "day": "Friday"
   },
   {
     "date": "2024-05-04",
     "steps": 23004,
-    "index": 849
+    "day": "Saturday"
   },
   {
     "date": "2024-05-05",
     "steps": 12883,
-    "index": 850
+    "day": "Sunday"
   },
   {
     "date": "2024-05-06",
     "steps": 8574,
-    "index": 851
+    "day": "Monday"
   },
   {
     "date": "2024-05-07",
     "steps": 12579,
-    "index": 852
+    "day": "Tuesday"
   },
   {
     "date": "2024-05-08",
     "steps": 16070,
-    "index": 853
+    "day": "Wednesday"
   },
   {
     "date": "2024-05-09",
     "steps": 6149,
-    "index": 854
+    "day": "Thursday"
   },
   {
     "date": "2024-05-10",
     "steps": 17613,
-    "index": 855
+    "day": "Friday"
   },
   {
     "date": "2024-05-11",
     "steps": 19336,
-    "index": 856
+    "day": "Saturday"
   },
   {
     "date": "2024-05-12",
     "steps": 14851,
-    "index": 857
+    "day": "Sunday"
   },
   {
     "date": "2024-05-13",
     "steps": 14838,
-    "index": 858
+    "day": "Monday"
   },
   {
     "date": "2024-05-14",
     "steps": 19848,
-    "index": 859
+    "day": "Tuesday"
   },
   {
     "date": "2024-05-15",
     "steps": 2639,
-    "index": 860
+    "day": "Wednesday"
   },
   {
     "date": "2024-05-16",
     "steps": 1664,
-    "index": 861
+    "day": "Thursday"
   },
   {
     "date": "2024-05-17",
     "steps": 4788,
-    "index": 862
+    "day": "Friday"
   },
   {
     "date": "2024-05-18",
     "steps": 9329,
-    "index": 863
+    "day": "Saturday"
   },
   {
     "date": "2024-05-19",
     "steps": 1776,
-    "index": 864
+    "day": "Sunday"
   },
   {
     "date": "2024-05-20",
     "steps": 12741,
-    "index": 865
+    "day": "Monday"
   },
   {
     "date": "2024-05-21",
     "steps": 4117,
-    "index": 866
+    "day": "Tuesday"
   },
   {
     "date": "2024-05-22",
     "steps": 13479,
-    "index": 867
+    "day": "Wednesday"
   },
   {
     "date": "2024-05-23",
     "steps": 20198,
-    "index": 868
+    "day": "Thursday"
   },
   {
     "date": "2024-05-24",
     "steps": 8634,
-    "index": 869
+    "day": "Friday"
   },
   {
     "date": "2024-05-25",
     "steps": 47821,
-    "index": 870
+    "day": "Saturday"
   },
   {
     "date": "2024-05-26",
     "steps": 1489,
-    "index": 871
+    "day": "Sunday"
   },
   {
     "date": "2024-05-27",
     "steps": 3192,
-    "index": 872
+    "day": "Monday"
   },
   {
     "date": "2024-05-28",
     "steps": 2682,
-    "index": 873
+    "day": "Tuesday"
   },
   {
     "date": "2024-05-29",
     "steps": 9315,
-    "index": 874
+    "day": "Wednesday"
   },
   {
     "date": "2024-05-30",
     "steps": 534,
-    "index": 875
+    "day": "Thursday"
   },
   {
     "date": "2024-05-31",
     "steps": 4306,
-    "index": 876
+    "day": "Friday"
   },
   {
     "date": "2024-06-01",
     "steps": 21516,
-    "index": 877
+    "day": "Saturday"
   },
   {
     "date": "2024-06-02",
     "steps": 1297,
-    "index": 878
+    "day": "Sunday"
   },
   {
     "date": "2024-06-03",
     "steps": 7324,
-    "index": 879
+    "day": "Monday"
   },
   {
     "date": "2024-06-04",
     "steps": 3067,
-    "index": 880
+    "day": "Tuesday"
   },
   {
     "date": "2024-06-05",
     "steps": 16551,
-    "index": 881
+    "day": "Wednesday"
   },
   {
     "date": "2024-06-06",
     "steps": 5014,
-    "index": 882
+    "day": "Thursday"
   },
   {
     "date": "2024-06-07",
     "steps": 5789,
-    "index": 883
+    "day": "Friday"
   },
   {
     "date": "2024-06-08",
     "steps": 15227,
-    "index": 884
+    "day": "Saturday"
   },
   {
     "date": "2024-06-09",
     "steps": 17601,
-    "index": 885
+    "day": "Sunday"
   },
   {
     "date": "2024-06-10",
     "steps": 2242,
-    "index": 886
+    "day": "Monday"
   },
   {
     "date": "2024-06-11",
     "steps": 2638,
-    "index": 887
+    "day": "Tuesday"
   },
   {
     "date": "2024-06-12",
     "steps": 1105,
-    "index": 888
+    "day": "Wednesday"
   },
   {
     "date": "2024-06-13",
     "steps": 1342,
-    "index": 889
+    "day": "Thursday"
   },
   {
     "date": "2024-06-14",
     "steps": 1950,
-    "index": 890
+    "day": "Friday"
   },
   {
     "date": "2024-06-15",
     "steps": 15941,
-    "index": 891
+    "day": "Saturday"
   },
   {
     "date": "2024-06-16",
     "steps": 3757,
-    "index": 892
+    "day": "Sunday"
   },
   {
     "date": "2024-06-17",
     "steps": 7919,
-    "index": 893
+    "day": "Monday"
   },
   {
     "date": "2024-06-18",
     "steps": 2723,
-    "index": 894
+    "day": "Tuesday"
   },
   {
     "date": "2024-06-19",
     "steps": 1599,
-    "index": 895
+    "day": "Wednesday"
   },
   {
     "date": "2024-06-20",
     "steps": 4128,
-    "index": 896
+    "day": "Thursday"
   },
   {
     "date": "2024-06-21",
     "steps": 5213,
-    "index": 897
+    "day": "Friday"
   },
   {
     "date": "2024-06-22",
     "steps": 18484,
-    "index": 898
+    "day": "Saturday"
   },
   {
     "date": "2024-06-23",
     "steps": 1734,
-    "index": 899
+    "day": "Sunday"
   },
   {
     "date": "2024-06-24",
     "steps": 7175,
-    "index": 900
+    "day": "Monday"
   },
   {
     "date": "2024-06-25",
     "steps": 10951,
-    "index": 901
+    "day": "Tuesday"
   },
   {
     "date": "2024-06-26",
     "steps": 7186,
-    "index": 902
+    "day": "Wednesday"
   },
   {
     "date": "2024-06-27",
     "steps": 11226,
-    "index": 903
+    "day": "Thursday"
   },
   {
     "date": "2024-06-28",
     "steps": 19373,
-    "index": 904
+    "day": "Friday"
   },
   {
     "date": "2024-06-29",
     "steps": 13451,
-    "index": 905
+    "day": "Saturday"
   },
   {
     "date": "2024-06-30",
     "steps": 14631,
-    "index": 906
+    "day": "Sunday"
   },
   {
     "date": "2024-07-01",
     "steps": 2617,
-    "index": 907
+    "day": "Monday"
   },
   {
     "date": "2024-07-02",
     "steps": 1054,
-    "index": 908
+    "day": "Tuesday"
   },
   {
     "date": "2024-07-03",
     "steps": 12827,
-    "index": 909
+    "day": "Wednesday"
   },
   {
     "date": "2024-07-04",
     "steps": 8966,
-    "index": 910
+    "day": "Thursday"
   },
   {
     "date": "2024-07-05",
     "steps": 12981,
-    "index": 911
+    "day": "Friday"
   },
   {
     "date": "2024-07-06",
     "steps": 5275,
-    "index": 912
+    "day": "Saturday"
   },
   {
     "date": "2024-07-07",
     "steps": 4162,
-    "index": 913
+    "day": "Sunday"
   },
   {
     "date": "2024-07-08",
     "steps": 15510,
-    "index": 914
+    "day": "Monday"
   },
   {
     "date": "2024-07-09",
     "steps": 12955,
-    "index": 915
+    "day": "Tuesday"
   },
   {
     "date": "2024-07-10",
     "steps": 12944,
-    "index": 916
+    "day": "Wednesday"
   },
   {
     "date": "2024-07-11",
     "steps": 16259,
-    "index": 917
+    "day": "Thursday"
   },
   {
     "date": "2024-07-12",
     "steps": 14810,
-    "index": 918
+    "day": "Friday"
   },
   {
     "date": "2024-07-13",
     "steps": 2041,
-    "index": 919
+    "day": "Saturday"
   },
   {
     "date": "2024-07-14",
     "steps": 3896,
-    "index": 920
+    "day": "Sunday"
   },
   {
     "date": "2024-07-15",
     "steps": 4303,
-    "index": 921
+    "day": "Monday"
   },
   {
     "date": "2024-07-16",
     "steps": 14223,
-    "index": 922
+    "day": "Tuesday"
   },
   {
     "date": "2024-07-17",
     "steps": 13845,
-    "index": 923
+    "day": "Wednesday"
   },
   {
     "date": "2024-07-18",
     "steps": 14114,
-    "index": 924
+    "day": "Thursday"
   },
   {
     "date": "2024-07-19",
     "steps": 15908,
-    "index": 925
+    "day": "Friday"
   },
   {
     "date": "2024-07-20",
     "steps": 13069,
-    "index": 926
+    "day": "Saturday"
   },
   {
     "date": "2024-07-21",
     "steps": 6788,
-    "index": 927
+    "day": "Sunday"
   },
   {
     "date": "2024-07-22",
     "steps": 4456,
-    "index": 928
+    "day": "Monday"
   },
   {
     "date": "2024-07-23",
     "steps": 14996,
-    "index": 929
+    "day": "Tuesday"
   },
   {
     "date": "2024-07-24",
     "steps": 15941,
-    "index": 930
+    "day": "Wednesday"
   },
   {
     "date": "2024-07-25",
     "steps": 19666,
-    "index": 931
+    "day": "Thursday"
   },
   {
     "date": "2024-07-26",
     "steps": 12321,
-    "index": 932
+    "day": "Friday"
   },
   {
     "date": "2024-07-27",
     "steps": 12119,
-    "index": 933
+    "day": "Saturday"
   },
   {
     "date": "2024-07-28",
     "steps": 11254,
-    "index": 934
+    "day": "Sunday"
   },
   {
     "date": "2024-07-29",
     "steps": 9190,
-    "index": 935
+    "day": "Monday"
   },
   {
     "date": "2024-07-30",
     "steps": 7141,
-    "index": 936
+    "day": "Tuesday"
   },
   {
     "date": "2024-07-31",
     "steps": 18833,
-    "index": 937
+    "day": "Wednesday"
   },
   {
     "date": "2024-08-01",
     "steps": 12896,
-    "index": 938
+    "day": "Thursday"
   },
   {
     "date": "2024-08-02",
     "steps": 11040,
-    "index": 939
+    "day": "Friday"
   },
   {
     "date": "2024-08-03",
     "steps": 13520,
-    "index": 940
+    "day": "Saturday"
   },
   {
     "date": "2024-08-04",
     "steps": 13242,
-    "index": 941
+    "day": "Sunday"
   },
   {
     "date": "2024-08-05",
     "steps": 2677,
-    "index": 942
+    "day": "Monday"
   },
   {
     "date": "2024-08-06",
     "steps": 12184,
-    "index": 943
+    "day": "Tuesday"
   },
   {
     "date": "2024-08-07",
     "steps": 12022,
-    "index": 944
+    "day": "Wednesday"
   },
   {
     "date": "2024-08-08",
     "steps": 11736,
-    "index": 945
+    "day": "Thursday"
   },
   {
     "date": "2024-08-09",
     "steps": 10719,
-    "index": 946
+    "day": "Friday"
   },
   {
     "date": "2024-08-10",
     "steps": 11416,
-    "index": 947
+    "day": "Saturday"
   },
   {
     "date": "2024-08-12",
     "steps": 6770,
-    "index": 948
+    "day": "Monday"
   },
   {
     "date": "2024-08-13",
     "steps": 7509,
-    "index": 949
+    "day": "Tuesday"
   },
   {
     "date": "2024-08-14",
     "steps": 14584,
-    "index": 950
+    "day": "Wednesday"
   },
   {
     "date": "2024-08-15",
     "steps": 13612,
-    "index": 951
+    "day": "Thursday"
   },
   {
     "date": "2024-08-16",
     "steps": 14268,
-    "index": 952
+    "day": "Friday"
   },
   {
     "date": "2024-08-17",
     "steps": 16221,
-    "index": 953
+    "day": "Saturday"
   },
   {
     "date": "2024-08-18",
     "steps": 9540,
-    "index": 954
+    "day": "Sunday"
   },
   {
     "date": "2024-08-19",
     "steps": 2677,
-    "index": 955
+    "day": "Monday"
   },
   {
     "date": "2024-08-20",
     "steps": 12045,
-    "index": 956
+    "day": "Tuesday"
   },
   {
     "date": "2024-08-21",
     "steps": 10847,
-    "index": 957
+    "day": "Wednesday"
   },
   {
     "date": "2024-08-22",
     "steps": 11829,
-    "index": 958
+    "day": "Thursday"
   },
   {
     "date": "2024-08-23",
     "steps": 9671,
-    "index": 959
+    "day": "Friday"
   },
   {
     "date": "2024-08-24",
     "steps": 9640,
-    "index": 960
+    "day": "Saturday"
   },
   {
     "date": "2024-08-25",
     "steps": 10597,
-    "index": 961
+    "day": "Sunday"
   },
   {
     "date": "2024-08-26",
     "steps": 1260,
-    "index": 962
+    "day": "Monday"
   },
   {
     "date": "2024-08-27",
     "steps": 13136,
-    "index": 963
+    "day": "Tuesday"
   },
   {
     "date": "2024-08-28",
     "steps": 4036,
-    "index": 964
+    "day": "Wednesday"
   },
   {
     "date": "2024-08-29",
     "steps": 12079,
-    "index": 965
+    "day": "Thursday"
   },
   {
     "date": "2024-08-30",
     "steps": 12144,
-    "index": 966
+    "day": "Friday"
   },
   {
     "date": "2024-09-01",
     "steps": 2280,
-    "index": 967
+    "day": "Sunday"
   },
   {
     "date": "2024-09-02",
     "steps": 4528,
-    "index": 968
+    "day": "Monday"
   },
   {
     "date": "2024-09-03",
     "steps": 14366,
-    "index": 969
+    "day": "Tuesday"
   },
   {
     "date": "2024-09-04",
     "steps": 5068,
-    "index": 970
+    "day": "Wednesday"
   },
   {
     "date": "2024-09-05",
     "steps": 4722,
-    "index": 971
+    "day": "Thursday"
   },
   {
     "date": "2024-09-06",
     "steps": 12743,
-    "index": 972
+    "day": "Friday"
   },
   {
     "date": "2024-09-07",
     "steps": 13921,
-    "index": 973
+    "day": "Saturday"
   },
   {
     "date": "2024-09-08",
     "steps": 5043,
-    "index": 974
+    "day": "Sunday"
   },
   {
     "date": "2024-09-09",
     "steps": 503,
-    "index": 975
+    "day": "Monday"
   },
   {
     "date": "2024-09-10",
     "steps": 10549,
-    "index": 976
+    "day": "Tuesday"
   },
   {
     "date": "2024-09-11",
     "steps": 3263,
-    "index": 977
+    "day": "Wednesday"
   },
   {
     "date": "2024-09-12",
     "steps": 4090,
-    "index": 978
+    "day": "Thursday"
   },
   {
     "date": "2024-09-13",
     "steps": 9848,
-    "index": 979
+    "day": "Friday"
   },
   {
     "date": "2024-09-14",
     "steps": 15596,
-    "index": 980
+    "day": "Saturday"
   },
   {
     "date": "2024-09-15",
     "steps": 1453,
-    "index": 981
+    "day": "Sunday"
   },
   {
     "date": "2024-09-16",
     "steps": 7250,
-    "index": 982
+    "day": "Monday"
   },
   {
     "date": "2024-09-17",
     "steps": 6127,
-    "index": 983
+    "day": "Tuesday"
   },
   {
     "date": "2024-09-18",
     "steps": 4874,
-    "index": 984
+    "day": "Wednesday"
   },
   {
     "date": "2024-09-19",
     "steps": 4351,
-    "index": 985
+    "day": "Thursday"
   },
   {
     "date": "2024-09-20",
     "steps": 12081,
-    "index": 986
+    "day": "Friday"
   },
   {
     "date": "2024-09-21",
     "steps": 14790,
-    "index": 987
+    "day": "Saturday"
   },
   {
     "date": "2024-09-22",
     "steps": 4177,
-    "index": 988
+    "day": "Sunday"
   },
   {
     "date": "2024-09-23",
     "steps": 5666,
-    "index": 989
+    "day": "Monday"
   },
   {
     "date": "2024-09-24",
     "steps": 9816,
-    "index": 990
+    "day": "Tuesday"
   },
   {
     "date": "2024-09-25",
     "steps": 3839,
-    "index": 991
+    "day": "Wednesday"
   },
   {
     "date": "2024-09-26",
     "steps": 4575,
-    "index": 992
+    "day": "Thursday"
   },
   {
     "date": "2024-09-27",
     "steps": 14003,
-    "index": 993
+    "day": "Friday"
   },
   {
     "date": "2024-09-28",
     "steps": 12365,
-    "index": 994
+    "day": "Saturday"
   },
   {
     "date": "2024-09-30",
     "steps": 6602,
-    "index": 995
+    "day": "Monday"
   },
   {
     "date": "2024-10-01",
     "steps": 13194,
-    "index": 996
+    "day": "Tuesday"
   },
   {
     "date": "2024-10-02",
     "steps": 5459,
-    "index": 997
+    "day": "Wednesday"
   },
   {
     "date": "2024-10-03",
     "steps": 6711,
-    "index": 998
+    "day": "Thursday"
   },
   {
     "date": "2024-10-04",
     "steps": 13137,
-    "index": 999
+    "day": "Friday"
   },
   {
     "date": "2024-10-05",
     "steps": 17867,
-    "index": 1000
+    "day": "Saturday"
   },
   {
     "date": "2024-10-06",
     "steps": 8782,
-    "index": 1001
+    "day": "Sunday"
   },
   {
     "date": "2024-10-07",
     "steps": 9321,
-    "index": 1002
+    "day": "Monday"
   },
   {
     "date": "2024-10-08",
     "steps": 13578,
-    "index": 1003
+    "day": "Tuesday"
   },
   {
     "date": "2024-10-09",
     "steps": 3217,
-    "index": 1004
+    "day": "Wednesday"
   },
   {
     "date": "2024-10-10",
     "steps": 5604,
-    "index": 1005
+    "day": "Thursday"
   },
   {
     "date": "2024-10-11",
     "steps": 13836,
-    "index": 1006
+    "day": "Friday"
   },
   {
     "date": "2024-10-12",
     "steps": 15447,
-    "index": 1007
+    "day": "Saturday"
   },
   {
     "date": "2024-10-13",
     "steps": 6494,
-    "index": 1008
+    "day": "Sunday"
   },
   {
     "date": "2024-10-14",
     "steps": 6450,
-    "index": 1009
+    "day": "Monday"
   },
   {
     "date": "2024-10-15",
     "steps": 13353,
-    "index": 1010
+    "day": "Tuesday"
   },
   {
     "date": "2024-10-16",
     "steps": 11236,
-    "index": 1011
+    "day": "Wednesday"
   },
   {
     "date": "2024-10-17",
     "steps": 8322,
-    "index": 1012
+    "day": "Thursday"
   },
   {
     "date": "2024-10-18",
     "steps": 12324,
-    "index": 1013
+    "day": "Friday"
   },
   {
     "date": "2024-10-19",
     "steps": 12928,
-    "index": 1014
+    "day": "Saturday"
   },
   {
     "date": "2024-10-20",
     "steps": 5596,
-    "index": 1015
+    "day": "Sunday"
   },
   {
     "date": "2024-10-21",
     "steps": 17296,
-    "index": 1016
+    "day": "Monday"
   },
   {
     "date": "2024-10-22",
     "steps": 37,
-    "index": 1017
+    "day": "Tuesday"
   },
   {
     "date": "2024-10-23",
     "steps": 3166,
-    "index": 1018
+    "day": "Wednesday"
   },
   {
     "date": "2024-10-24",
     "steps": 4371,
-    "index": 1019
+    "day": "Thursday"
   },
   {
     "date": "2024-10-25",
     "steps": 12572,
-    "index": 1020
+    "day": "Friday"
   },
   {
     "date": "2024-10-26",
     "steps": 11912,
-    "index": 1021
+    "day": "Saturday"
   },
   {
     "date": "2024-10-27",
     "steps": 2725,
-    "index": 1022
+    "day": "Sunday"
   },
   {
     "date": "2024-10-28",
     "steps": 42,
-    "index": 1023
+    "day": "Monday"
   },
   {
     "date": "2024-10-29",
     "steps": 10816,
-    "index": 1024
+    "day": "Tuesday"
   },
   {
     "date": "2024-10-30",
     "steps": 3164,
-    "index": 1025
+    "day": "Wednesday"
   },
   {
     "date": "2024-11-01",
     "steps": 12423,
-    "index": 1026
+    "day": "Friday"
   },
   {
     "date": "2024-11-02",
     "steps": 10953,
-    "index": 1027
+    "day": "Saturday"
   },
   {
     "date": "2024-11-03",
     "steps": 5468,
-    "index": 1028
+    "day": "Sunday"
   },
   {
     "date": "2024-11-04",
     "steps": 392,
-    "index": 1029
+    "day": "Monday"
   },
   {
     "date": "2024-11-05",
     "steps": 4960,
-    "index": 1030
+    "day": "Tuesday"
   },
   {
     "date": "2024-11-06",
     "steps": 3108,
-    "index": 1031
+    "day": "Wednesday"
   },
   {
     "date": "2024-11-07",
     "steps": 5250,
-    "index": 1032
+    "day": "Thursday"
   },
   {
     "date": "2024-11-08",
     "steps": 13418,
-    "index": 1033
+    "day": "Friday"
   },
   {
     "date": "2024-11-09",
     "steps": 11896,
-    "index": 1034
+    "day": "Saturday"
   },
   {
     "date": "2024-11-10",
     "steps": 5161,
-    "index": 1035
+    "day": "Sunday"
   },
   {
     "date": "2024-11-11",
     "steps": 1576,
-    "index": 1036
+    "day": "Monday"
   },
   {
     "date": "2024-11-12",
     "steps": 15296,
-    "index": 1037
+    "day": "Tuesday"
   },
   {
     "date": "2024-11-13",
     "steps": 93,
-    "index": 1038
+    "day": "Wednesday"
   },
   {
     "date": "2024-11-14",
     "steps": 6515,
-    "index": 1039
+    "day": "Thursday"
   },
   {
     "date": "2024-11-15",
     "steps": 14060,
-    "index": 1040
+    "day": "Friday"
   },
   {
     "date": "2024-11-16",
     "steps": 19626,
-    "index": 1041
+    "day": "Saturday"
   },
   {
     "date": "2024-11-17",
     "steps": 946,
-    "index": 1042
+    "day": "Sunday"
   },
   {
     "date": "2024-11-18",
     "steps": 2438,
-    "index": 1043
+    "day": "Monday"
   },
   {
     "date": "2024-11-19",
     "steps": 13162,
-    "index": 1044
+    "day": "Tuesday"
   },
   {
     "date": "2024-11-20",
     "steps": 2811,
-    "index": 1045
+    "day": "Wednesday"
   },
   {
     "date": "2024-11-21",
     "steps": 4243,
-    "index": 1046
+    "day": "Thursday"
   },
   {
     "date": "2024-11-22",
     "steps": 16454,
-    "index": 1047
+    "day": "Friday"
   },
   {
     "date": "2024-11-23",
     "steps": 22777,
-    "index": 1048
+    "day": "Saturday"
   },
   {
     "date": "2024-11-24",
     "steps": 232,
-    "index": 1049
+    "day": "Sunday"
   },
   {
     "date": "2024-11-25",
     "steps": 5183,
-    "index": 1050
+    "day": "Monday"
   },
   {
     "date": "2024-11-26",
     "steps": 12187,
-    "index": 1051
+    "day": "Tuesday"
   },
   {
     "date": "2024-11-27",
     "steps": 3743,
-    "index": 1052
+    "day": "Wednesday"
   },
   {
     "date": "2024-11-28",
     "steps": 4515,
-    "index": 1053
+    "day": "Thursday"
   },
   {
     "date": "2024-11-29",
     "steps": 6290,
-    "index": 1054
+    "day": "Friday"
   },
   {
     "date": "2024-11-30",
     "steps": 8330,
-    "index": 1055
+    "day": "Saturday"
   },
   {
     "date": "2024-12-01",
     "steps": 3412,
-    "index": 1056
+    "day": "Sunday"
   },
   {
     "date": "2024-12-02",
     "steps": 118,
-    "index": 1057
+    "day": "Monday"
   },
   {
     "date": "2024-12-03",
     "steps": 13089,
-    "index": 1058
+    "day": "Tuesday"
   },
   {
     "date": "2024-12-04",
     "steps": 3355,
-    "index": 1059
+    "day": "Wednesday"
   },
   {
     "date": "2024-12-05",
     "steps": 5781,
-    "index": 1060
+    "day": "Thursday"
   },
   {
     "date": "2024-12-06",
     "steps": 11896,
-    "index": 1061
+    "day": "Friday"
   },
   {
     "date": "2024-12-07",
     "steps": 15644,
-    "index": 1062
+    "day": "Saturday"
   },
   {
     "date": "2024-12-08",
     "steps": 13564,
-    "index": 1063
+    "day": "Sunday"
   },
   {
     "date": "2024-12-09",
     "steps": 2599,
-    "index": 1064
+    "day": "Monday"
   },
   {
     "date": "2024-12-10",
     "steps": 4783,
-    "index": 1065
+    "day": "Tuesday"
   },
   {
     "date": "2024-12-11",
     "steps": 10339,
-    "index": 1066
+    "day": "Wednesday"
   },
   {
     "date": "2024-12-12",
     "steps": 4783,
-    "index": 1067
+    "day": "Thursday"
   },
   {
     "date": "2024-12-13",
     "steps": 10339,
-    "index": 1068
+    "day": "Friday"
   },
   {
     "date": "2024-12-14",
     "steps": 16193,
-    "index": 1069
+    "day": "Saturday"
   },
   {
     "date": "2024-12-15",
     "steps": 497,
-    "index": 1070
+    "day": "Sunday"
   },
   {
     "date": "2024-12-16",
     "steps": 4909,
-    "index": 1071
+    "day": "Monday"
   },
   {
     "date": "2024-12-17",
     "steps": 592,
-    "index": 1072
+    "day": "Tuesday"
   },
   {
     "date": "2024-12-18",
     "steps": 4509,
-    "index": 1073
+    "day": "Wednesday"
   },
   {
     "date": "2024-12-19",
     "steps": 4908,
-    "index": 1074
+    "day": "Thursday"
   },
   {
     "date": "2024-12-20",
     "steps": 13698,
-    "index": 1075
+    "day": "Friday"
   },
   {
     "date": "2024-12-21",
     "steps": 19048,
-    "index": 1076
+    "day": "Saturday"
   },
   {
     "date": "2024-12-22",
     "steps": 571,
-    "index": 1077
+    "day": "Sunday"
   },
   {
     "date": "2024-12-23",
     "steps": 111,
-    "index": 1078
+    "day": "Monday"
   },
   {
     "date": "2024-12-24",
     "steps": 7635,
-    "index": 1079
+    "day": "Tuesday"
   },
   {
     "date": "2024-12-25",
     "steps": 439,
-    "index": 1080
+    "day": "Wednesday"
   },
   {
     "date": "2024-12-26",
     "steps": 12522,
-    "index": 1081
+    "day": "Thursday"
   },
   {
     "date": "2024-12-27",
     "steps": 5722,
-    "index": 1082
+    "day": "Friday"
   },
   {
     "date": "2024-12-28",
     "steps": 19202,
-    "index": 1083
+    "day": "Saturday"
   },
   {
     "date": "2024-12-29",
     "steps": 3683,
-    "index": 1084
+    "day": "Sunday"
   },
   {
     "date": "2024-12-30",
     "steps": 8199,
-    "index": 1085
+    "day": "Monday"
   },
   {
     "date": "2024-12-31",
     "steps": 4469,
-    "index": 1086
+    "day": "Tuesday"
   }
 ]

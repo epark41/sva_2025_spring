@@ -1,40 +1,38 @@
-class StepDay {
-    constructor(date, steps, index) {
-      this.date = date;
-      this.steps = steps;
-      this.index = index;
-  
-      // 무작위 위치
-      this.baseX = random(width);
-      this.baseY = random(height);
-  
-      // 걸음 수에 비례한 원의 크기
-      this.radius = map(this.steps, 35, 70897, 5, 100);
-      this.visible = false;
-  
-      // 연도별 색상 설정
-      let year = new Date(this.date).getFullYear();
-      if (year === 2022) {
-        this.color = color(255, 0, 0, 120); // 빨간색
-      } else if (year === 2023) {
-        this.color = color(0, 0, 255, 120); // 파란색
-      } else if (year === 2024) {
-        this.color = color(0, 150, 0, 120); // 초록색
-      } else {
-        this.color = color(100, 100, 100, 100); // 예외 처리용 회색
-      }
-    }
-  
-    display(currentIndex) {
-      if (this.index <= currentIndex) {
-        this.visible = true;
-      }
-      if (this.visible) {
-        fill(this.color);
-        noStroke();
-        circle(this.baseX, this.baseY, this.radius);
-      }
-    }
+class StepCircle {
+  constructor(x, y, r, day, count) {
+    this.day = day;
+    this.r = r;
+    this.count = count;
+
+    this.body = Matter.Bodies.circle(x, y, r, {
+      restitution: 0.2,
+      friction: 0.02,
+      density: 0.001
+    });
+    Matter.World.add(world, this.body);
   }
-  
-  
+
+  show() {
+    let baseColor;
+    switch (this.day) {
+      case "Monday": baseColor = color(100, 150, 255); break;
+      case "Tuesday": baseColor = color(120, 100, 255); break;
+      case "Wednesday": baseColor = color(150, 100, 220); break;
+      case "Thursday": baseColor = color(200, 80, 180); break;
+      case "Friday": baseColor = color(255, 100, 150); break;
+      case "Saturday": baseColor = color(255, 80, 100); break;
+      case "Sunday": baseColor = color(255, 120, 120); break;
+      default: baseColor = color(200); break;
+    }
+
+    fill(baseColor);
+    stroke(255);
+    let pos = this.body.position;
+    circle(pos.x, pos.y, this.r * 2);
+  }
+
+  isOffscreen() {
+    let pos = this.body.position;
+    return pos.y > height + 50;
+  }
+}

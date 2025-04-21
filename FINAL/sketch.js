@@ -1,80 +1,123 @@
-let stepsData = [];
+let Engine = Matter.Engine,
+    World = Matter.World,
+    Bodies = Matter.Bodies;
+
+let engine, world;
+let rawData = [];
 let currentIndex = 0;
-let stepObjects = [];
+let circles = [];
 let dataLoaded = false;
+let started = false;
+let startButton;
+
+let weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+let columns = {};
+let weekdayCounts = {};
+let weekdaySums = {};
+let weekdayAverages = {};
 
 function preload() {
-  loadJSON('data/walking.json', (data) => {
-    stepsData = data;
+  loadJSON("data/walking_day.json", (data) => {
+    rawData = data;
     dataLoaded = true;
   });
 }
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1000, 800);
+  engine = Engine.create();
+  world = engine.world;
   frameRate(30);
-  angleMode(RADIANS);
   textAlign(CENTER, CENTER);
-  textSize(14);
+
+  for (let i = 0; i < weekdays.length; i++) {
+    columns[weekdays[i]] = map(i, 0, 6, 100, width - 100);
+    weekdayCounts[weekdays[i]] = 0;
+    weekdaySums[weekdays[i]] = 0;
+
+    let x = columns[weekdays[i]];
+    let wallWidth = 120;
+    let wallLeft = Bodies.rectangle(x - wallWidth * 0.6, height / 2, 10, height, { isStatic: true });
+    let wallRight = Bodies.rectangle(x + wallWidth * 0.6, height / 2, 10, height, { isStatic: true });
+    World.add(world, [wallLeft, wallRight]);
+  }
+
+  let floor = Bodies.rectangle(width / 2, height + 40, width, 150, { isStatic: true });
+  World.add(world, floor);
+
+  startButton = createButton("START");
+  startButton.position(width / 2 - 50, height / 2 - 25);
+  startButton.size(100, 50);
+  startButton.style("font-size", "16px");
+  startButton.mousePressed(() => {
+    started = true;
+    startButton.hide();
+  });
 }
 
 function draw() {
-  if (!dataLoaded) return;
+  background(255);
 
-  background(190);
+  if (!dataLoaded || !started) return;
 
-  if (stepObjects.length === 0) {
-    for (let i = 0; i < stepsData.length; i++) {
-      let obj = new StepDay(stepsData[i].date, stepsData[i].steps, i);
-      stepObjects.push(obj);
-    }
-  }
+  Engine.update(engine);
 
-  // 원 표시
-  for (let i = 0; i < stepObjects.length; i++) {
-    stepObjects[i].display(currentIndex);
-  }
+  if (frameCount % 1 === 0 && currentIndex < rawData.length) {
+    let d = rawData[currentIndex];
+    let day = d.day;
+    let steps = d.steps;
 
-  // 날짜 텍스트 출력
-  fill(0);
-  noStroke();
+    let x = columns[day];
+    let r = map(steps, 35, 70897, 5, 50);
 
-  // 날짜 증가 (애니메이션 효과)
-  if (frameCount % 3 === 0 && currentIndex < stepObjects.length - 1) {
+    weekdayCounts[day]++;
+    weekdaySums[day] += steps;
+
+    circles.push(new StepCircle(x, -20, r, day, weekdayCounts[day]));
     currentIndex++;
   }
 
-  // 📌 상태 바 그리기
-  drawProgressBar();
+  for (let i = circles.length - 1; i >= 0; i--) {
+    if (circles[i].isOffscreen()) {
+      World.remove(world, circles[i].body);
+      circles.splice(i, 1);
+    } else {
+      circles[i].show();
+    }
+  }
+
+  drawDayLabels();
+  drawAverageLabels();
+
+  if (rawData[currentIndex]) {
+    let date = rawData[currentIndex].date;
+    let yearMonth = date.slice(0, 7);
+    fill(0);
+    noStroke();
+    textSize(16);
+    text(yearMonth, width / 2, 20);
+  }
 }
 
-function drawProgressBar() {
-    const barX = 50;
-    const barY = height - 40;
-    const barWidth = width - 100;
-    const barHeight = 10;
-  
-    const progress = map(currentIndex, 0, stepsData.length - 1, 0, 1);
-  
-    // 상태 바 배경
-    noStroke();
-    fill(230);
-    rect(barX, barY, barWidth, barHeight);
-  
-    // 진행된 부분
-    fill(50);
-    rect(barX, barY, barWidth * progress, barHeight);
-  
-    // 날짜 텍스트를 따라가게
-    if (stepsData[currentIndex]) {
-      let labelX = barX + (barWidth * progress);
-      let labelY = barY - 15;
-  
-      fill(0);
-      noStroke();
-      textAlign(CENTER, CENTER);
-      text(stepsData[currentIndex].date, labelX, labelY);
-    }
-  
+function drawDayLabels() {
+  fill(0);
+  textSize(14);
+  for (let i = 0; i < weekdays.length; i++) {
+    const x = columns[weekdays[i]];
+    textAlign(CENTER, TOP);
+    text(weekdays[i], x, height - 20);
   }
-  
+}
+
+function drawAverageLabels() {
+  textSize(12);
+  textAlign(CENTER, BOTTOM);
+  for (let i = 0; i < weekdays.length; i++) {
+    let day = weekdays[i];
+    if (weekdayCounts[day] > 0) {
+      let avg = floor(weekdaySums[day] / weekdayCounts[day]);
+      fill(80);
+      text(`${avg.toLocaleString()} steps`, columns[day], height - 50);
+    }
+  }
+}
