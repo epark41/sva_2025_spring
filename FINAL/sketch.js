@@ -35,10 +35,10 @@ function setup() {
     weekdayCounts[weekdays[i]] = 0;
     weekdaySums[weekdays[i]] = 0;
 
-    let x = columns[weekdays[i]];
+    let x = columns[weekdays[i]] ;
     let wallWidth = 120;
-    let wallLeft = Bodies.rectangle(x - wallWidth * 0.6, height / 2, 10, height, { isStatic: true });
-    let wallRight = Bodies.rectangle(x + wallWidth * 0.6, height / 2, 10, height, { isStatic: true });
+    let wallLeft = Bodies.rectangle(x - wallWidth * 0.4, height / 2, 10, height, { isStatic: true });
+    let wallRight = Bodies.rectangle(x + wallWidth * 0.4, height / 2, 10, height, { isStatic: true });
     World.add(world, [wallLeft, wallRight]);
   }
 
@@ -70,7 +70,7 @@ function draw() {
     let steps = d.steps;
 
     let x = columns[day];
-    let r = map(steps, 35, 70897, 5, 50);
+    let r = map(steps, 35, 70897, 5, 35);
 
     weekdayCounts[day]++;
     weekdaySums[day] += steps;

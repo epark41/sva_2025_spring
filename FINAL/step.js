@@ -5,9 +5,10 @@ class StepCircle {
     this.count = count;
 
     this.body = Matter.Bodies.circle(x, y, r, {
-      restitution: 0.2,
-      friction: 0.02,
-      density: 0.001
+      restitution: 0,         
+      friction: 0.001,          
+      density: 0.000001,        
+      frictionStatic: 1   
     });
     Matter.World.add(world, this.body);
   }
