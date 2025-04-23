@@ -23,11 +23,11 @@ function preload() {
 }
 
 function setup() {
-  rectMode(CENTER);
+  textAlign(CENTER, TOP);
   createCanvas(1000, 800).parent(document.body);
   engine = Engine.create();
   world = engine.world;
-  frameRate(30);
+  frameRate(40);
   textAlign(CENTER, CENTER);
 
   for (let i = 0; i < weekdays.length; i++) {
@@ -64,10 +64,9 @@ function draw() {
 
   Engine.update(engine);
 
-  if (frameCount % 1 === 0 && currentIndex < rawData.length) {
-    let d = rawData[currentIndex];
-    let day = d.day;
-    let steps = d.steps;
+  if (currentIndex < rawData.length) {
+    let { day, steps, date } = rawData[currentIndex];
+
 
     let x = columns[day];
     let r = map(steps, 35, 70897, 5, 35);
@@ -88,8 +87,8 @@ function draw() {
     }
   }
 
-  drawDayLabels();
-  drawAverageLabels();
+  days();
+  AvgStep();
 
   if (rawData[currentIndex]) {
     let date = rawData[currentIndex].date;
@@ -97,30 +96,28 @@ function draw() {
     fill(0);
     noStroke();
     textSize(16);
-    textAlign(CENTER, TOP);
+ 
     text(yearMonth, width / 2, 20);
   }
 }
 
-function drawDayLabels() {
+function days() {
   fill(0);
-  textSize(14);
+  textSize(20);
   for (let i = 0; i < weekdays.length; i++) {
     const x = columns[weekdays[i]];
-    textAlign(CENTER, TOP);
-    text(weekdays[i], x, height - 50);
+    text(weekdays[i], x, height - 40);
   }
 }
 
-function drawAverageLabels() {
+function AvgStep() {
   textSize(14);
-  textAlign(CENTER, BOTTOM);
   for (let i = 0; i < weekdays.length; i++) {
     let day = weekdays[i];
     if (weekdayCounts[day] > 0) {
       let avg = floor(weekdaySums[day] / weekdayCounts[day]);
       fill(0);
-      text(`${avg.toLocaleString()} steps`, columns[day], height - 10);
+      text(`${avg.toLocaleString()} steps`, columns[day], height - 20);
     }
   }
 }
