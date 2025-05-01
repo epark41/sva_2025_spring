@@ -8,6 +8,7 @@ let rawData = [];
 let currentIndex = 0;    
 let circles = [];       
 let dataLoaded = false; 
+let started = false;
 
 
 const weekdays = [
